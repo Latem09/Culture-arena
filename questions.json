@@ -1,0 +1,4660 @@
+{
+  "title": "CULTURE ARENA — Banque de 358 questions",
+  "version": "2.0",
+  "questions": [
+    {
+      "id": "CA-0001",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel roi de France fit promulguer l'édit de Nantes en 1598 ?",
+      "options": [
+        "Henri IV",
+        "Louis XIII",
+        "François Ier",
+        "Charles IX"
+      ],
+      "answer": "Henri IV"
+    },
+    {
+      "id": "CA-0002",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel général carthaginois franchit les Alpes durant la deuxième guerre punique ?",
+      "options": [
+        "Hannibal Barca",
+        "Hasdrubal Gisco",
+        "Hamilcar Barca",
+        "Scipion l'Africain"
+      ],
+      "answer": "Hannibal Barca"
+    },
+    {
+      "id": "CA-0003",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quelle dynastie régna sur la Chine de 1368 à 1644 ?",
+      "options": [
+        "Ming",
+        "Qing",
+        "Yuan",
+        "Song"
+      ],
+      "answer": "Ming"
+    },
+    {
+      "id": "CA-0004",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "À quel affrontement de 732 associe-t-on traditionnellement Charles Martel ?",
+      "options": [
+        "Poitiers",
+        "Bataille de Fontenoy",
+        "Bataille de Crécy",
+        "Bataille de Bouvines"
+      ],
+      "answer": "Poitiers"
+    },
+    {
+      "id": "CA-0005",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel événement marque le début conventionnel de l'ère Meiji ?",
+      "options": [
+        "La restauration impériale de 1868",
+        "La guerre russo-japonaise",
+        "La rébellion de Satsuma",
+        "L'annexion de la Corée"
+      ],
+      "answer": "La restauration impériale de 1868"
+    },
+    {
+      "id": "CA-0006",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel empire avait pour capitale Cuzco ?",
+      "options": [
+        "Empire inca",
+        "Empire aztèque",
+        "Empire maya",
+        "Empire olmèque"
+      ],
+      "answer": "Empire inca"
+    },
+    {
+      "id": "CA-0007",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle reine anglaise régna pendant la défaite de l'Armada espagnole ?",
+      "options": [
+        "Élisabeth Ire",
+        "Marie Ire",
+        "Anne Stuart",
+        "Victoria"
+      ],
+      "answer": "Élisabeth Ire"
+    },
+    {
+      "id": "CA-0008",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quelle paix de 1555 consacra le principe « cuius regio, eius religio » ?",
+      "options": [
+        "Paix d'Augsbourg",
+        "Paix de Westphalie",
+        "Paix de Prague",
+        "Paix de Cateau-Cambrésis"
+      ],
+      "answer": "Paix d'Augsbourg"
+    },
+    {
+      "id": "CA-0009",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Qui dirigeait l'URSS lors de la crise des missiles de Cuba ?",
+      "options": [
+        "Nikita Khrouchtchev",
+        "Joseph Staline",
+        "Léonid Brejnev",
+        "Mikhaïl Gorbatchev"
+      ],
+      "answer": "Nikita Khrouchtchev"
+    },
+    {
+      "id": "CA-0010",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel souverain fonda l'Empire mongol au début du XIIIe siècle ?",
+      "options": [
+        "Gengis Khan",
+        "Kubilaï Khan",
+        "Tamerlan",
+        "Ögödei"
+      ],
+      "answer": "Gengis Khan"
+    },
+    {
+      "id": "CA-0011",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle bataille navale de 1571 opposa la Sainte Ligue aux Ottomans ?",
+      "options": [
+        "Lépante",
+        "Actium",
+        "Trafalgar",
+        "Navarin"
+      ],
+      "answer": "Lépante"
+    },
+    {
+      "id": "CA-0012",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel texte anglais de 1689 limita le pouvoir royal au profit du Parlement ?",
+      "options": [
+        "Bill of Rights",
+        "Magna Carta",
+        "Habeas Corpus Act de 1679",
+        "Act of Union"
+      ],
+      "answer": "Bill of Rights"
+    },
+    {
+      "id": "CA-0013",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel président américain lança le New Deal ?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Theodore Roosevelt",
+        "Harry Truman",
+        "Herbert Hoover"
+      ],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "id": "CA-0014",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle ville fut le siège du gouvernement de Vichy ?",
+      "options": [
+        "Vichy",
+        "Clermont-Ferrand",
+        "Lyon",
+        "Limoges"
+      ],
+      "answer": "Vichy"
+    },
+    {
+      "id": "CA-0015",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel événement de 1917 entraîna l'abdication du tsar Nicolas II ?",
+      "options": [
+        "Révolution de Février",
+        "Révolution d'Octobre",
+        "Insurrection de Kronstadt",
+        "Guerre civile russe"
+      ],
+      "answer": "Révolution de Février"
+    },
+    {
+      "id": "CA-0016",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel traité de 1919 fixa notamment les conditions de paix avec l'Allemagne ?",
+      "options": [
+        "Traité de Versailles",
+        "Traité de Saint-Germain",
+        "Traité de Trianon",
+        "Traité de Sèvres"
+      ],
+      "answer": "Traité de Versailles"
+    },
+    {
+      "id": "CA-0017",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle cité antique fut détruite par Rome à l'issue de la troisième guerre punique ?",
+      "options": [
+        "Carthage",
+        "Syracuse",
+        "Alexandrie",
+        "Corinthe"
+      ],
+      "answer": "Carthage"
+    },
+    {
+      "id": "CA-0018",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel mouvement religieux fut lancé par Martin Luther en 1517 ?",
+      "options": [
+        "Réforme protestante",
+        "Contre-Réforme",
+        "Grand Schisme d'Occident",
+        "Réforme grégorienne"
+      ],
+      "answer": "Réforme protestante"
+    },
+    {
+      "id": "CA-0019",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel chef de l'indépendance indienne mena la marche du sel en 1930 ?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Muhammad Ali Jinnah"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "id": "CA-0020",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel événement de 1989 symbolisa l'effondrement du bloc de l'Est en Allemagne ?",
+      "options": [
+        "Chute du mur de Berlin",
+        "Réunification allemande",
+        "Dissolution du pacte de Varsovie",
+        "Traité de Maastricht"
+      ],
+      "answer": "Chute du mur de Berlin"
+    },
+    {
+      "id": "CA-0021",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel État enclavé est entièrement entouré par l'Afrique du Sud ?",
+      "options": [
+        "Lesotho",
+        "Eswatini",
+        "Botswana",
+        "Namibie"
+      ],
+      "answer": "Lesotho"
+    },
+    {
+      "id": "CA-0022",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel fleuve forme une grande partie de la frontière entre les États-Unis et le Mexique ?",
+      "options": [
+        "Rio Grande",
+        "Colorado",
+        "Mississippi",
+        "Columbia"
+      ],
+      "answer": "Rio Grande"
+    },
+    {
+      "id": "CA-0023",
+      "theme": "Géographie",
+      "difficulty": "Difficile",
+      "question": "Dans quel pays se trouve le lac Titicaca en partage avec la Bolivie ?",
+      "options": [
+        "Pérou",
+        "Chili",
+        "Équateur",
+        "Paraguay"
+      ],
+      "answer": "Pérou"
+    },
+    {
+      "id": "CA-0024",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle mer intérieure est bordée notamment par le Kazakhstan et l'Azerbaïdjan ?",
+      "options": [
+        "Mer Caspienne",
+        "Mer d'Aral",
+        "Mer Noire",
+        "Mer Morte"
+      ],
+      "answer": "Mer Caspienne"
+    },
+    {
+      "id": "CA-0025",
+      "theme": "Géographie",
+      "difficulty": "Difficile",
+      "question": "Quel pays possède l'île de Bornholm en mer Baltique ?",
+      "options": [
+        "Danemark",
+        "Suède",
+        "Allemagne",
+        "Pologne"
+      ],
+      "answer": "Danemark"
+    },
+    {
+      "id": "CA-0026",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel désert s'étend principalement sur le Botswana, la Namibie et l'Afrique du Sud ?",
+      "options": [
+        "Kalahari",
+        "Namib",
+        "Sahara",
+        "Danakil"
+      ],
+      "answer": "Kalahari"
+    },
+    {
+      "id": "CA-0027",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel détroit sépare les îles indonésiennes de Sumatra et de Java ?",
+      "options": [
+        "Détroit de la Sonde",
+        "Détroit de Lombok",
+        "Détroit de Malacca",
+        "Détroit de Makassar"
+      ],
+      "answer": "Détroit de la Sonde"
+    },
+    {
+      "id": "CA-0028",
+      "theme": "Géographie",
+      "difficulty": "Difficile",
+      "question": "Quel fleuve traverse Bagdad ?",
+      "options": [
+        "Tigre",
+        "Euphrate",
+        "Jourdain",
+        "Oronte"
+      ],
+      "answer": "Tigre"
+    },
+    {
+      "id": "CA-0029",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays a pour capitale Thimphou ?",
+      "options": [
+        "Bhoutan",
+        "Népal",
+        "Laos",
+        "Brunei"
+      ],
+      "answer": "Bhoutan"
+    },
+    {
+      "id": "CA-0030",
+      "theme": "Géographie",
+      "difficulty": "Difficile",
+      "question": "Quel sommet est le plus haut du continent africain ?",
+      "options": [
+        "Kilimandjaro",
+        "Mont Kenya",
+        "Ras Dashen",
+        "Mont Stanley"
+      ],
+      "answer": "Kilimandjaro"
+    },
+    {
+      "id": "CA-0031",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel archipel espagnol est situé au large du nord-ouest de l'Afrique ?",
+      "options": [
+        "Canaries",
+        "Baléares",
+        "Açores",
+        "Madère"
+      ],
+      "answer": "Canaries"
+    },
+    {
+      "id": "CA-0032",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays partage l'île d'Hispaniola avec Haïti ?",
+      "options": [
+        "République dominicaine",
+        "Cuba",
+        "Jamaïque",
+        "Porto Rico"
+      ],
+      "answer": "République dominicaine"
+    },
+    {
+      "id": "CA-0033",
+      "theme": "Géographie",
+      "difficulty": "Difficile",
+      "question": "Quelle capitale européenne est située sur la Vltava ?",
+      "options": [
+        "Prague",
+        "Bratislava",
+        "Ljubljana",
+        "Zagreb"
+      ],
+      "answer": "Prague"
+    },
+    {
+      "id": "CA-0034",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle chaîne montagneuse borde la côte occidentale de l'Amérique du Sud ?",
+      "options": [
+        "Andes",
+        "Rocheuses",
+        "Appalaches",
+        "Sierra Madre orientale"
+      ],
+      "answer": "Andes"
+    },
+    {
+      "id": "CA-0035",
+      "theme": "Géographie",
+      "difficulty": "Difficile",
+      "question": "Quel pays est traversé par le tropique du Capricorne ?",
+      "options": [
+        "Namibie",
+        "Maroc",
+        "Tunisie",
+        "Égypte"
+      ],
+      "answer": "Namibie"
+    },
+    {
+      "id": "CA-0036",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle île méditerranéenne est partagée entre une république reconnue internationalement et une entité reconnue seulement par la Turquie ?",
+      "options": [
+        "Chypre",
+        "Crète",
+        "Sicile",
+        "Sardaigne"
+      ],
+      "answer": "Chypre"
+    },
+    {
+      "id": "CA-0037",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel fleuve d'Afrique australe forme les chutes Victoria ?",
+      "options": [
+        "Zambèze",
+        "Limpopo",
+        "Orange",
+        "Okavango"
+      ],
+      "answer": "Zambèze"
+    },
+    {
+      "id": "CA-0038",
+      "theme": "Géographie",
+      "difficulty": "Difficile",
+      "question": "Quelle péninsule abrite principalement la Norvège et la Suède ?",
+      "options": [
+        "Péninsule Scandinave",
+        "Péninsule Ibérique",
+        "Péninsule du Jutland",
+        "Péninsule Balkanique"
+      ],
+      "answer": "Péninsule Scandinave"
+    },
+    {
+      "id": "CA-0039",
+      "theme": "Géographie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle capitale est située à la confluence de la Save et du Danube ?",
+      "options": [
+        "Belgrade",
+        "Budapest",
+        "Vienne",
+        "Bratislava"
+      ],
+      "answer": "Belgrade"
+    },
+    {
+      "id": "CA-0040",
+      "theme": "Géographie",
+      "difficulty": "Difficile",
+      "question": "Quel pays a pour capitale Paramaribo ?",
+      "options": [
+        "Suriname",
+        "Guyana",
+        "Belize",
+        "Trinité-et-Tobago"
+      ],
+      "answer": "Suriname"
+    },
+    {
+      "id": "CA-0041",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle molécule transporte principalement l'oxygène dans les globules rouges ?",
+      "options": [
+        "Hémoglobine",
+        "Myoglobine",
+        "Albumine",
+        "Fibrinogène"
+      ],
+      "answer": "Hémoglobine"
+    },
+    {
+      "id": "CA-0042",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle enzyme synthétise l'ARN à partir d'un brin d'ADN ?",
+      "options": [
+        "ARN polymérase",
+        "ADN ligase",
+        "Amylase",
+        "Hélicase"
+      ],
+      "answer": "ARN polymérase"
+    },
+    {
+      "id": "CA-0043",
+      "theme": "Sciences",
+      "difficulty": "Difficile",
+      "question": "Quel acide est majoritairement présent dans le suc gastrique ?",
+      "options": [
+        "Acide chlorhydrique",
+        "Acide sulfurique",
+        "Acide nitrique",
+        "Acide phosphorique"
+      ],
+      "answer": "Acide chlorhydrique"
+    },
+    {
+      "id": "CA-0044",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle grandeur physique s'exprime en pascals ?",
+      "options": [
+        "Pression",
+        "Énergie",
+        "Puissance",
+        "Charge électrique"
+      ],
+      "answer": "Pression"
+    },
+    {
+      "id": "CA-0045",
+      "theme": "Sciences",
+      "difficulty": "Difficile",
+      "question": "Quel chercheur a formulé les lois de l'hérédité à partir de pois ?",
+      "options": [
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Charles Darwin",
+        "Thomas Hunt Morgan"
+      ],
+      "answer": "Gregor Mendel"
+    },
+    {
+      "id": "CA-0046",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle couche terrestre est située entre la croûte et le noyau ?",
+      "options": [
+        "Manteau",
+        "Lithosphère externe",
+        "Atmosphère",
+        "Hydrosphère"
+      ],
+      "answer": "Manteau"
+    },
+    {
+      "id": "CA-0047",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quel type de liaison unit les acides aminés d'une protéine ?",
+      "options": [
+        "Liaison peptidique",
+        "Liaison ionique",
+        "Liaison phosphodiester",
+        "Liaison métallique"
+      ],
+      "answer": "Liaison peptidique"
+    },
+    {
+      "id": "CA-0048",
+      "theme": "Sciences",
+      "difficulty": "Difficile",
+      "question": "Quelle particule possède une charge électrique positive et se trouve dans le noyau atomique ?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Électron",
+        "Neutrino"
+      ],
+      "answer": "Proton"
+    },
+    {
+      "id": "CA-0049",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quel scientifique découvrit la pénicilline en 1928 ?",
+      "options": [
+        "Alexander Fleming",
+        "Robert Koch",
+        "Joseph Lister",
+        "Paul Ehrlich"
+      ],
+      "answer": "Alexander Fleming"
+    },
+    {
+      "id": "CA-0050",
+      "theme": "Sciences",
+      "difficulty": "Difficile",
+      "question": "Quelle unité du Système international mesure la fréquence ?",
+      "options": [
+        "Hertz",
+        "Tesla",
+        "Weber",
+        "Henry"
+      ],
+      "answer": "Hertz"
+    },
+    {
+      "id": "CA-0051",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle théorie décrit l'évolution des espèces par sélection naturelle ?",
+      "options": [
+        "Théorie de Darwin et Wallace",
+        "Théorie du phlogistique",
+        "Théorie des humeurs",
+        "Théorie du catastrophisme"
+      ],
+      "answer": "Théorie de Darwin et Wallace"
+    },
+    {
+      "id": "CA-0052",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quel organe produit la bile chez l'être humain ?",
+      "options": [
+        "Foie",
+        "Pancréas",
+        "Vésicule biliaire",
+        "Rate"
+      ],
+      "answer": "Foie"
+    },
+    {
+      "id": "CA-0053",
+      "theme": "Sciences",
+      "difficulty": "Difficile",
+      "question": "Quel métal est liquide à température ambiante ordinaire ?",
+      "options": [
+        "Mercure",
+        "Gallium",
+        "Bismuth",
+        "Étain"
+      ],
+      "answer": "Mercure"
+    },
+    {
+      "id": "CA-0054",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quel principe relie la poussée subie par un corps immergé au poids du fluide déplacé ?",
+      "options": [
+        "Principe d'Archimède",
+        "Loi de Hooke",
+        "Principe de Pascal",
+        "Loi de Coulomb"
+      ],
+      "answer": "Principe d'Archimède"
+    },
+    {
+      "id": "CA-0055",
+      "theme": "Sciences",
+      "difficulty": "Difficile",
+      "question": "Quelle structure cellulaire contient principalement l'ADN des cellules eucaryotes ?",
+      "options": [
+        "Noyau",
+        "Ribosome",
+        "Lysosome",
+        "Centrosome"
+      ],
+      "answer": "Noyau"
+    },
+    {
+      "id": "CA-0056",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quel gaz est majoritaire dans l'atmosphère terrestre ?",
+      "options": [
+        "Diazote",
+        "Dioxygène",
+        "Argon",
+        "Dioxyde de carbone"
+      ],
+      "answer": "Diazote"
+    },
+    {
+      "id": "CA-0057",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quel physicien proposa l'équation d'onde en mécanique quantique en 1926 ?",
+      "options": [
+        "Erwin Schrödinger",
+        "Max Planck",
+        "Niels Bohr",
+        "Paul Dirac"
+      ],
+      "answer": "Erwin Schrödinger"
+    },
+    {
+      "id": "CA-0058",
+      "theme": "Sciences",
+      "difficulty": "Difficile",
+      "question": "Quel phénomène permet aux plantes de convertir l'énergie lumineuse en énergie chimique ?",
+      "options": [
+        "Photosynthèse",
+        "Fermentation",
+        "Transpiration",
+        "Chimiosynthèse"
+      ],
+      "answer": "Photosynthèse"
+    },
+    {
+      "id": "CA-0059",
+      "theme": "Sciences",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle échelle mesure l'acidité d'une solution aqueuse ?",
+      "options": [
+        "pH",
+        "Indice de réfraction",
+        "Degré Brix",
+        "Échelle de Mohs"
+      ],
+      "answer": "pH"
+    },
+    {
+      "id": "CA-0060",
+      "theme": "Sciences",
+      "difficulty": "Difficile",
+      "question": "Quelle hormone est principalement responsable de la diminution de la glycémie ?",
+      "options": [
+        "Insuline",
+        "Glucagon",
+        "Adrénaline",
+        "Cortisol"
+      ],
+      "answer": "Insuline"
+    },
+    {
+      "id": "CA-0061",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle planète possède la Grande Tache rouge ?",
+      "options": [
+        "Jupiter",
+        "Saturne",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "id": "CA-0062",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel est le nom de la première exoplanète découverte autour d'une étoile semblable au Soleil ?",
+      "options": [
+        "51 Pegasi b",
+        "Proxima Centauri b",
+        "Kepler-22b",
+        "TRAPPIST-1e"
+      ],
+      "answer": "51 Pegasi b"
+    },
+    {
+      "id": "CA-0063",
+      "theme": "Astronomie",
+      "difficulty": "Difficile",
+      "question": "Quelle mission spatiale a déposé le rover Perseverance sur Mars ?",
+      "options": [
+        "Mars 2020",
+        "Viking 1",
+        "Mars Pathfinder",
+        "Mars Express"
+      ],
+      "answer": "Mars 2020"
+    },
+    {
+      "id": "CA-0064",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel télescope spatial a été lancé en décembre 2021 ?",
+      "options": [
+        "James-Webb",
+        "Hubble",
+        "Kepler",
+        "Spitzer"
+      ],
+      "answer": "James-Webb"
+    },
+    {
+      "id": "CA-0065",
+      "theme": "Astronomie",
+      "difficulty": "Difficile",
+      "question": "Quel type d'étoile est le Soleil ?",
+      "options": [
+        "Naine jaune de type G",
+        "Géante rouge",
+        "Naine blanche",
+        "Étoile à neutrons"
+      ],
+      "answer": "Naine jaune de type G"
+    },
+    {
+      "id": "CA-0066",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle planète a un axe de rotation fortement incliné, proche de 98 degrés ?",
+      "options": [
+        "Uranus",
+        "Neptune",
+        "Mars",
+        "Mercure"
+      ],
+      "answer": "Uranus"
+    },
+    {
+      "id": "CA-0067",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel est le plus grand volcan connu du Système solaire ?",
+      "options": [
+        "Olympus Mons",
+        "Mauna Loa",
+        "Elysium Mons",
+        "Ascraeus Mons"
+      ],
+      "answer": "Olympus Mons"
+    },
+    {
+      "id": "CA-0068",
+      "theme": "Astronomie",
+      "difficulty": "Difficile",
+      "question": "Quel astronome a découvert Uranus en 1781 ?",
+      "options": [
+        "William Herschel",
+        "Galilée",
+        "Johannes Kepler",
+        "Edmond Halley"
+      ],
+      "answer": "William Herschel"
+    },
+    {
+      "id": "CA-0069",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle sonde a survolé Pluton en 2015 ?",
+      "options": [
+        "New Horizons",
+        "Voyager 2",
+        "Cassini",
+        "Juno"
+      ],
+      "answer": "New Horizons"
+    },
+    {
+      "id": "CA-0070",
+      "theme": "Astronomie",
+      "difficulty": "Difficile",
+      "question": "Quel satellite naturel de Saturne possède des geysers de vapeur d'eau ?",
+      "options": [
+        "Encelade",
+        "Titan",
+        "Rhéa",
+        "Dioné"
+      ],
+      "answer": "Encelade"
+    },
+    {
+      "id": "CA-0071",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel terme désigne le point de l'orbite terrestre le plus proche du Soleil ?",
+      "options": [
+        "Périhélie",
+        "Aphélie",
+        "Périgée",
+        "Apogée"
+      ],
+      "answer": "Périhélie"
+    },
+    {
+      "id": "CA-0072",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel phénomène est produit lorsque la Lune passe dans l'ombre de la Terre ?",
+      "options": [
+        "Éclipse lunaire",
+        "Éclipse solaire",
+        "Transit de Vénus",
+        "Occultation stellaire"
+      ],
+      "answer": "Éclipse lunaire"
+    },
+    {
+      "id": "CA-0073",
+      "theme": "Astronomie",
+      "difficulty": "Difficile",
+      "question": "Quelle étoile marque approximativement le pôle Nord céleste à notre époque ?",
+      "options": [
+        "Polaris",
+        "Sirius",
+        "Bételgeuse",
+        "Deneb"
+      ],
+      "answer": "Polaris"
+    },
+    {
+      "id": "CA-0074",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel objet du Système solaire est classé comme planète naine et se trouve dans la ceinture d'astéroïdes ?",
+      "options": [
+        "Cérès",
+        "Éris",
+        "Makémaké",
+        "Hauméa"
+      ],
+      "answer": "Cérès"
+    },
+    {
+      "id": "CA-0075",
+      "theme": "Astronomie",
+      "difficulty": "Difficile",
+      "question": "Quelle mission a placé la première sonde en orbite autour de Saturne ?",
+      "options": [
+        "Cassini-Huygens",
+        "Voyager 1",
+        "Pioneer 11",
+        "Galileo"
+      ],
+      "answer": "Cassini-Huygens"
+    },
+    {
+      "id": "CA-0076",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle planète a une atmosphère dominée par le dioxyde de carbone et un effet de serre extrême ?",
+      "options": [
+        "Vénus",
+        "Mars",
+        "Neptune",
+        "Mercure"
+      ],
+      "answer": "Vénus"
+    },
+    {
+      "id": "CA-0077",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle unité astronomique correspond approximativement à la distance moyenne Terre-Soleil ?",
+      "options": [
+        "Unité astronomique",
+        "Année-lumière",
+        "Parsec",
+        "Rayon solaire"
+      ],
+      "answer": "Unité astronomique"
+    },
+    {
+      "id": "CA-0078",
+      "theme": "Astronomie",
+      "difficulty": "Difficile",
+      "question": "Quel est le nom de l'amas ouvert qui constitue les Pléiades dans le catalogue Messier ?",
+      "options": [
+        "M45",
+        "M13",
+        "M31",
+        "M42"
+      ],
+      "answer": "M45"
+    },
+    {
+      "id": "CA-0079",
+      "theme": "Astronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle constellation contient l'étoile Bételgeuse ?",
+      "options": [
+        "Orion",
+        "Cygne",
+        "Scorpion",
+        "Taureau"
+      ],
+      "answer": "Orion"
+    },
+    {
+      "id": "CA-0080",
+      "theme": "Astronomie",
+      "difficulty": "Difficile",
+      "question": "Quel astronome a énoncé trois lois décrivant le mouvement des planètes ?",
+      "options": [
+        "Johannes Kepler",
+        "Nicolas Copernic",
+        "Tycho Brahe",
+        "Christiaan Huygens"
+      ],
+      "answer": "Johannes Kepler"
+    },
+    {
+      "id": "CA-0081",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle institution de l'ONU peut adopter des résolutions obligatoires au titre du chapitre VII ?",
+      "options": [
+        "Conseil de sécurité",
+        "Assemblée générale",
+        "Conseil économique et social",
+        "Cour internationale de Justice"
+      ],
+      "answer": "Conseil de sécurité"
+    },
+    {
+      "id": "CA-0082",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel penseur a écrit Du contrat social ?",
+      "options": [
+        "Jean-Jacques Rousseau",
+        "Montesquieu",
+        "John Locke",
+        "Emmanuel Kant"
+      ],
+      "answer": "Jean-Jacques Rousseau"
+    },
+    {
+      "id": "CA-0083",
+      "theme": "Politique",
+      "difficulty": "Difficile",
+      "question": "Quel État européen possède un système politique de démocratie directe avec des référendums fréquents ?",
+      "options": [
+        "Suisse",
+        "Portugal",
+        "Pologne",
+        "Suède"
+      ],
+      "answer": "Suisse"
+    },
+    {
+      "id": "CA-0084",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle fonction exerce le chancelier fédéral en Allemagne ?",
+      "options": [
+        "Chef du gouvernement",
+        "Chef de l'État",
+        "Président du Bundestag",
+        "Président de la Cour constitutionnelle"
+      ],
+      "answer": "Chef du gouvernement"
+    },
+    {
+      "id": "CA-0085",
+      "theme": "Politique",
+      "difficulty": "Difficile",
+      "question": "Quel traité de 1957 institua la Communauté économique européenne ?",
+      "options": [
+        "Traité de Rome",
+        "Traité de Maastricht",
+        "Traité de Nice",
+        "Traité de Lisbonne"
+      ],
+      "answer": "Traité de Rome"
+    },
+    {
+      "id": "CA-0086",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle doctrine américaine de 1947 visait à contenir l'expansion du communisme ?",
+      "options": [
+        "Doctrine Truman",
+        "Doctrine Monroe",
+        "Doctrine Nixon",
+        "Doctrine Carter"
+      ],
+      "answer": "Doctrine Truman"
+    },
+    {
+      "id": "CA-0087",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel texte de 1787 constitue le fondement institutionnel des États-Unis ?",
+      "options": [
+        "Constitution fédérale",
+        "Déclaration d'indépendance",
+        "Articles de la Confédération",
+        "Bill of Rights de 1689"
+      ],
+      "answer": "Constitution fédérale"
+    },
+    {
+      "id": "CA-0088",
+      "theme": "Politique",
+      "difficulty": "Difficile",
+      "question": "Quel organe de l'Union européenne réunit les ministres des États membres selon les domaines ?",
+      "options": [
+        "Conseil de l'Union européenne",
+        "Conseil européen",
+        "Commission européenne",
+        "Parlement européen"
+      ],
+      "answer": "Conseil de l'Union européenne"
+    },
+    {
+      "id": "CA-0089",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel concept désigne le partage des pouvoirs entre exécutif, législatif et judiciaire ?",
+      "options": [
+        "Séparation des pouvoirs",
+        "Souveraineté populaire",
+        "Centralisme démocratique",
+        "Subsidiarité"
+      ],
+      "answer": "Séparation des pouvoirs"
+    },
+    {
+      "id": "CA-0090",
+      "theme": "Politique",
+      "difficulty": "Difficile",
+      "question": "Quel pays est une monarchie constitutionnelle parlementaire ?",
+      "options": [
+        "Japon",
+        "France",
+        "Brésil",
+        "Mexique"
+      ],
+      "answer": "Japon"
+    },
+    {
+      "id": "CA-0091",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel philosophe a écrit Léviathan en 1651 ?",
+      "options": [
+        "Thomas Hobbes",
+        "John Locke",
+        "David Hume",
+        "Jeremy Bentham"
+      ],
+      "answer": "Thomas Hobbes"
+    },
+    {
+      "id": "CA-0092",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel système électoral britannique élit les députés de la Chambre des communes ?",
+      "options": [
+        "Scrutin uninominal majoritaire à un tour",
+        "Proportionnelle intégrale",
+        "Scrutin uninominal à deux tours",
+        "Vote unique transférable"
+      ],
+      "answer": "Scrutin uninominal majoritaire à un tour"
+    },
+    {
+      "id": "CA-0093",
+      "theme": "Politique",
+      "difficulty": "Difficile",
+      "question": "Quelle organisation régionale a son siège principal à Addis-Abeba ?",
+      "options": [
+        "Union africaine",
+        "ASEAN",
+        "Mercosur",
+        "Conseil de l'Europe"
+      ],
+      "answer": "Union africaine"
+    },
+    {
+      "id": "CA-0094",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel organe de l'ONU juge les différends juridiques entre États consentants ?",
+      "options": [
+        "Cour internationale de Justice",
+        "Cour pénale internationale",
+        "Conseil de tutelle",
+        "Haut-Commissariat aux réfugiés"
+      ],
+      "answer": "Cour internationale de Justice"
+    },
+    {
+      "id": "CA-0095",
+      "theme": "Politique",
+      "difficulty": "Difficile",
+      "question": "Quelle notion décrit l'attribution de compétences au niveau de décision le plus proche possible des citoyens ?",
+      "options": [
+        "Subsidiarité",
+        "Bicamérisme",
+        "Fédéralisme fiscal",
+        "Suffrage censitaire"
+      ],
+      "answer": "Subsidiarité"
+    },
+    {
+      "id": "CA-0096",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle assemblée française peut renverser le gouvernement par une motion de censure ?",
+      "options": [
+        "Assemblée nationale",
+        "Sénat",
+        "Conseil constitutionnel",
+        "Conseil d'État"
+      ],
+      "answer": "Assemblée nationale"
+    },
+    {
+      "id": "CA-0097",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays a adopté une constitution démocratique en 1996 après l'apartheid ?",
+      "options": [
+        "Afrique du Sud",
+        "Zimbabwe",
+        "Angola",
+        "Mozambique"
+      ],
+      "answer": "Afrique du Sud"
+    },
+    {
+      "id": "CA-0098",
+      "theme": "Politique",
+      "difficulty": "Difficile",
+      "question": "Quel auteur est associé à La Démocratie en Amérique ?",
+      "options": [
+        "Alexis de Tocqueville",
+        "Benjamin Constant",
+        "Raymond Aron",
+        "Pierre Bourdieu"
+      ],
+      "answer": "Alexis de Tocqueville"
+    },
+    {
+      "id": "CA-0099",
+      "theme": "Politique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel terme désigne le pouvoir d'un État sur son territoire et sa population ?",
+      "options": [
+        "Souveraineté",
+        "Hégémonie",
+        "Légitimité dynastique",
+        "Neutralité"
+      ],
+      "answer": "Souveraineté"
+    },
+    {
+      "id": "CA-0100",
+      "theme": "Politique",
+      "difficulty": "Difficile",
+      "question": "Quel accord de 1998 est associé au processus de paix en Irlande du Nord ?",
+      "options": [
+        "Accord du Vendredi saint",
+        "Accord de Dayton",
+        "Accord d'Oslo",
+        "Accord de Taëf"
+      ],
+      "answer": "Accord du Vendredi saint"
+    },
+    {
+      "id": "CA-0101",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel économiste est connu pour la théorie des avantages comparatifs ?",
+      "options": [
+        "David Ricardo",
+        "Adam Smith",
+        "John Stuart Mill",
+        "Thomas Piketty"
+      ],
+      "answer": "David Ricardo"
+    },
+    {
+      "id": "CA-0102",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel indicateur mesure la valeur totale des biens et services finaux produits sur un territoire ?",
+      "options": [
+        "PIB",
+        "IPC",
+        "Balance commerciale",
+        "Masse monétaire M1"
+      ],
+      "answer": "PIB"
+    },
+    {
+      "id": "CA-0103",
+      "theme": "Économie",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on une situation où un seul vendeur domine l'offre d'un marché ?",
+      "options": [
+        "Monopole",
+        "Monopsone",
+        "Oligopsone",
+        "Concurrence monopolistique"
+      ],
+      "answer": "Monopole"
+    },
+    {
+      "id": "CA-0104",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel économiste a popularisé le concept de main invisible ?",
+      "options": [
+        "Adam Smith",
+        "John Maynard Keynes",
+        "Joseph Schumpeter",
+        "Vilfredo Pareto"
+      ],
+      "answer": "Adam Smith"
+    },
+    {
+      "id": "CA-0105",
+      "theme": "Économie",
+      "difficulty": "Difficile",
+      "question": "Quel mécanisme monétaire consiste pour une banque centrale à acheter massivement des actifs ?",
+      "options": [
+        "Assouplissement quantitatif",
+        "Dévaluation compétitive",
+        "Stérilisation budgétaire",
+        "Contrôle des capitaux"
+      ],
+      "answer": "Assouplissement quantitatif"
+    },
+    {
+      "id": "CA-0106",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel indicateur synthétise l'évolution moyenne des prix payés par les consommateurs ?",
+      "options": [
+        "Indice des prix à la consommation",
+        "Indice de Gini",
+        "Taux d'activité",
+        "Productivité horaire"
+      ],
+      "answer": "Indice des prix à la consommation"
+    },
+    {
+      "id": "CA-0107",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle notion désigne l'impossibilité d'exclure les non-payeurs de la consommation d'un bien ?",
+      "options": [
+        "Non-excluabilité",
+        "Rivalité",
+        "Élasticité",
+        "Fongibilité"
+      ],
+      "answer": "Non-excluabilité"
+    },
+    {
+      "id": "CA-0108",
+      "theme": "Économie",
+      "difficulty": "Difficile",
+      "question": "Quel organisme publie les Perspectives de l'économie mondiale ?",
+      "options": [
+        "Fonds monétaire international",
+        "Organisation mondiale du commerce",
+        "Banque centrale européenne",
+        "Organisation internationale du travail"
+      ],
+      "answer": "Fonds monétaire international"
+    },
+    {
+      "id": "CA-0109",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel économiste a élaboré le modèle IS-LM avec Alvin Hansen ?",
+      "options": [
+        "John Hicks",
+        "Robert Solow",
+        "Paul Krugman",
+        "Gary Becker"
+      ],
+      "answer": "John Hicks"
+    },
+    {
+      "id": "CA-0110",
+      "theme": "Économie",
+      "difficulty": "Difficile",
+      "question": "Quel terme désigne une baisse généralisée et durable du niveau des prix ?",
+      "options": [
+        "Déflation",
+        "Désinflation",
+        "Stagflation",
+        "Récession"
+      ],
+      "answer": "Déflation"
+    },
+    {
+      "id": "CA-0111",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel ratio mesure la sensibilité de la quantité demandée aux variations de prix ?",
+      "options": [
+        "Élasticité-prix de la demande",
+        "Multiplicateur keynésien",
+        "Ratio de liquidité",
+        "Taux de marge"
+      ],
+      "answer": "Élasticité-prix de la demande"
+    },
+    {
+      "id": "CA-0112",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel concept économique est associé à l'inefficacité d'un marché en présence d'informations asymétriques ?",
+      "options": [
+        "Sélection adverse",
+        "Équilibre de Nash",
+        "Avantage absolu",
+        "Effet d'éviction"
+      ],
+      "answer": "Sélection adverse"
+    },
+    {
+      "id": "CA-0113",
+      "theme": "Économie",
+      "difficulty": "Difficile",
+      "question": "Quel économiste a donné son nom à une courbe reliant taux d'imposition et recettes fiscales ?",
+      "options": [
+        "Arthur Laffer",
+        "Robert Lucas",
+        "Irving Fisher",
+        "Amartya Sen"
+      ],
+      "answer": "Arthur Laffer"
+    },
+    {
+      "id": "CA-0114",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel est le nom du coût d'une option auquel on renonce en choisissant une autre option ?",
+      "options": [
+        "Coût d'opportunité",
+        "Coût irrécupérable",
+        "Coût marginal",
+        "Coût fixe"
+      ],
+      "answer": "Coût d'opportunité"
+    },
+    {
+      "id": "CA-0115",
+      "theme": "Économie",
+      "difficulty": "Difficile",
+      "question": "Quelle théorie décrit l'effet d'une augmentation des dépenses publiques sur le revenu national ?",
+      "options": [
+        "Multiplicateur keynésien",
+        "Neutralité ricardienne",
+        "Théorème de Coase",
+        "Loi d'Okun"
+      ],
+      "answer": "Multiplicateur keynésien"
+    },
+    {
+      "id": "CA-0116",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel économiste est associé à la théorie du capital humain ?",
+      "options": [
+        "Gary Becker",
+        "Thomas Malthus",
+        "John Kenneth Galbraith",
+        "François Quesnay"
+      ],
+      "answer": "Gary Becker"
+    },
+    {
+      "id": "CA-0117",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Comment appelle-t-on la vente de biens à l'étranger ?",
+      "options": [
+        "Exportation",
+        "Importation",
+        "Réexportation intérieure",
+        "Substitution"
+      ],
+      "answer": "Exportation"
+    },
+    {
+      "id": "CA-0118",
+      "theme": "Économie",
+      "difficulty": "Difficile",
+      "question": "Quel indicateur mesure les inégalités de revenus ou de patrimoine sur une échelle allant généralement de 0 à 1 ?",
+      "options": [
+        "Coefficient de Gini",
+        "Indice PMI",
+        "Indice de Laspeyres",
+        "Ratio de Sharpe"
+      ],
+      "answer": "Coefficient de Gini"
+    },
+    {
+      "id": "CA-0119",
+      "theme": "Économie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle institution fixe les taux directeurs de la zone euro ?",
+      "options": [
+        "Banque centrale européenne",
+        "Commission européenne",
+        "Banque mondiale",
+        "Eurogroupe"
+      ],
+      "answer": "Banque centrale européenne"
+    },
+    {
+      "id": "CA-0120",
+      "theme": "Économie",
+      "difficulty": "Difficile",
+      "question": "Quel phénomène associe stagnation économique et inflation élevée ?",
+      "options": [
+        "Stagflation",
+        "Désinflation",
+        "Déflation",
+        "Hypercroissance"
+      ],
+      "answer": "Stagflation"
+    },
+    {
+      "id": "CA-0121",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel réalisateur a signé Apocalypse Now ?",
+      "options": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Michael Cimino",
+        "Oliver Stone"
+      ],
+      "answer": "Francis Ford Coppola"
+    },
+    {
+      "id": "CA-0122",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel film de 1954 met en scène sept guerriers recrutés pour défendre un village japonais ?",
+      "options": [
+        "Les Sept Samouraïs",
+        "Rashōmon",
+        "Harakiri",
+        "Le Château de l'araignée"
+      ],
+      "answer": "Les Sept Samouraïs"
+    },
+    {
+      "id": "CA-0123",
+      "theme": "Cinéma",
+      "difficulty": "Difficile",
+      "question": "Quelle actrice interprète Clarice Starling dans Le Silence des agneaux ?",
+      "options": [
+        "Jodie Foster",
+        "Julianne Moore",
+        "Sigourney Weaver",
+        "Michelle Pfeiffer"
+      ],
+      "answer": "Jodie Foster"
+    },
+    {
+      "id": "CA-0124",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel réalisateur a tourné Le Fabuleux Destin d'Amélie Poulain ?",
+      "options": [
+        "Jean-Pierre Jeunet",
+        "Michel Gondry",
+        "Luc Besson",
+        "François Ozon"
+      ],
+      "answer": "Jean-Pierre Jeunet"
+    },
+    {
+      "id": "CA-0125",
+      "theme": "Cinéma",
+      "difficulty": "Difficile",
+      "question": "Quel film de Stanley Kubrick est adapté d'un roman d'Anthony Burgess ?",
+      "options": [
+        "Orange mécanique",
+        "Barry Lyndon",
+        "Eyes Wide Shut",
+        "Shining"
+      ],
+      "answer": "Orange mécanique"
+    },
+    {
+      "id": "CA-0126",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel compositeur a signé la musique du film Le Bon, la Brute et le Truand ?",
+      "options": [
+        "Ennio Morricone",
+        "Nino Rota",
+        "John Williams",
+        "Hans Zimmer"
+      ],
+      "answer": "Ennio Morricone"
+    },
+    {
+      "id": "CA-0127",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel film de 1927 de Fritz Lang met en scène une cité futuriste divisée socialement ?",
+      "options": [
+        "Metropolis",
+        "M le maudit",
+        "Nosferatu",
+        "Le Cabinet du docteur Caligari"
+      ],
+      "answer": "Metropolis"
+    },
+    {
+      "id": "CA-0128",
+      "theme": "Cinéma",
+      "difficulty": "Difficile",
+      "question": "Quel cinéaste a réalisé Les Quatre Cents Coups ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Éric Rohmer"
+      ],
+      "answer": "François Truffaut"
+    },
+    {
+      "id": "CA-0129",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel film de 1999 est centré sur un narrateur et Tyler Durden ?",
+      "options": [
+        "Fight Club",
+        "American Beauty",
+        "Matrix",
+        "Eyes Wide Shut"
+      ],
+      "answer": "Fight Club"
+    },
+    {
+      "id": "CA-0130",
+      "theme": "Cinéma",
+      "difficulty": "Difficile",
+      "question": "Quel réalisateur a signé Le Labyrinthe de Pan ?",
+      "options": [
+        "Guillermo del Toro",
+        "Alfonso Cuarón",
+        "Alejandro G. Iñárritu",
+        "Pedro Almodóvar"
+      ],
+      "answer": "Guillermo del Toro"
+    },
+    {
+      "id": "CA-0131",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel acteur incarne Travis Bickle dans Taxi Driver ?",
+      "options": [
+        "Robert De Niro",
+        "Al Pacino",
+        "Dustin Hoffman",
+        "Harvey Keitel"
+      ],
+      "answer": "Robert De Niro"
+    },
+    {
+      "id": "CA-0132",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel film de 1941 est célèbre pour le personnage de Charles Foster Kane ?",
+      "options": [
+        "Citizen Kane",
+        "Casablanca",
+        "Le Faucon maltais",
+        "Assurance sur la mort"
+      ],
+      "answer": "Citizen Kane"
+    },
+    {
+      "id": "CA-0133",
+      "theme": "Cinéma",
+      "difficulty": "Difficile",
+      "question": "Quel cinéaste a réalisé Old Boy en 2003 ?",
+      "options": [
+        "Park Chan-wook",
+        "Bong Joon-ho",
+        "Hong Sang-soo",
+        "Kim Ki-duk"
+      ],
+      "answer": "Park Chan-wook"
+    },
+    {
+      "id": "CA-0134",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel film de 1982 de Ridley Scott adapte librement Philip K. Dick ?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "Legend",
+        "Thelma et Louise"
+      ],
+      "answer": "Blade Runner"
+    },
+    {
+      "id": "CA-0135",
+      "theme": "Cinéma",
+      "difficulty": "Difficile",
+      "question": "Quel réalisateur a tourné Les Enfants du paradis ?",
+      "options": [
+        "Marcel Carné",
+        "Jean Renoir",
+        "René Clément",
+        "Henri-Georges Clouzot"
+      ],
+      "answer": "Marcel Carné"
+    },
+    {
+      "id": "CA-0136",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel film d'animation japonais de 2001 a remporté l'Oscar du meilleur film d'animation ?",
+      "options": [
+        "Le Voyage de Chihiro",
+        "Princesse Mononoké",
+        "Le Château ambulant",
+        "Mon voisin Totoro"
+      ],
+      "answer": "Le Voyage de Chihiro"
+    },
+    {
+      "id": "CA-0137",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel acteur interprète le personnage principal de There Will Be Blood ?",
+      "options": [
+        "Daniel Day-Lewis",
+        "Joaquin Phoenix",
+        "Christian Bale",
+        "Philip Seymour Hoffman"
+      ],
+      "answer": "Daniel Day-Lewis"
+    },
+    {
+      "id": "CA-0138",
+      "theme": "Cinéma",
+      "difficulty": "Difficile",
+      "question": "Quel film de David Fincher raconte une enquête sur les sept péchés capitaux ?",
+      "options": [
+        "Seven",
+        "Zodiac",
+        "Gone Girl",
+        "The Game"
+      ],
+      "answer": "Seven"
+    },
+    {
+      "id": "CA-0139",
+      "theme": "Cinéma",
+      "difficulty": "Intermédiaire",
+      "question": "Quel cinéaste iranien a réalisé Une séparation ?",
+      "options": [
+        "Asghar Farhadi",
+        "Abbas Kiarostami",
+        "Jafar Panahi",
+        "Mohsen Makhmalbaf"
+      ],
+      "answer": "Asghar Farhadi"
+    },
+    {
+      "id": "CA-0140",
+      "theme": "Cinéma",
+      "difficulty": "Difficile",
+      "question": "Quel réalisateur a signé La Dolce Vita ?",
+      "options": [
+        "Federico Fellini",
+        "Luchino Visconti",
+        "Roberto Rossellini",
+        "Vittorio De Sica"
+      ],
+      "answer": "Federico Fellini"
+    },
+    {
+      "id": "CA-0141",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel compositeur a écrit les Variations Goldberg ?",
+      "options": [
+        "Jean-Sébastien Bach",
+        "Georg Friedrich Haendel",
+        "Domenico Scarlatti",
+        "Joseph Haydn"
+      ],
+      "answer": "Jean-Sébastien Bach"
+    },
+    {
+      "id": "CA-0142",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel album de David Bowie contient la chanson Life on Mars? ?",
+      "options": [
+        "Hunky Dory",
+        "Low",
+        "Heroes",
+        "Let's Dance"
+      ],
+      "answer": "Hunky Dory"
+    },
+    {
+      "id": "CA-0143",
+      "theme": "Musique",
+      "difficulty": "Difficile",
+      "question": "Quel musicien est surnommé « The Boss » ?",
+      "options": [
+        "Bruce Springsteen",
+        "Bob Dylan",
+        "Neil Young",
+        "Tom Petty"
+      ],
+      "answer": "Bruce Springsteen"
+    },
+    {
+      "id": "CA-0144",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel groupe a publié l'album Rumours en 1977 ?",
+      "options": [
+        "Fleetwood Mac",
+        "Eagles",
+        "Genesis",
+        "The Police"
+      ],
+      "answer": "Fleetwood Mac"
+    },
+    {
+      "id": "CA-0145",
+      "theme": "Musique",
+      "difficulty": "Difficile",
+      "question": "Quel compositeur a écrit la Symphonie du Nouveau Monde ?",
+      "options": [
+        "Antonín Dvořák",
+        "Gustav Mahler",
+        "Jean Sibelius",
+        "Bedřich Smetana"
+      ],
+      "answer": "Antonín Dvořák"
+    },
+    {
+      "id": "CA-0146",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel genre musical jamaïcain précède historiquement le reggae ?",
+      "options": [
+        "Ska",
+        "Bossa nova",
+        "Funk",
+        "Bebop"
+      ],
+      "answer": "Ska"
+    },
+    {
+      "id": "CA-0147",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pianiste de jazz est connu pour l'album The Köln Concert ?",
+      "options": [
+        "Keith Jarrett",
+        "Bill Evans",
+        "Herbie Hancock",
+        "Chick Corea"
+      ],
+      "answer": "Keith Jarrett"
+    },
+    {
+      "id": "CA-0148",
+      "theme": "Musique",
+      "difficulty": "Difficile",
+      "question": "Quel chanteur a enregistré l'album What's Going On en 1971 ?",
+      "options": [
+        "Marvin Gaye",
+        "Stevie Wonder",
+        "Otis Redding",
+        "Al Green"
+      ],
+      "answer": "Marvin Gaye"
+    },
+    {
+      "id": "CA-0149",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel compositeur français a écrit le Boléro ?",
+      "options": [
+        "Maurice Ravel",
+        "Claude Debussy",
+        "Gabriel Fauré",
+        "Camille Saint-Saëns"
+      ],
+      "answer": "Maurice Ravel"
+    },
+    {
+      "id": "CA-0150",
+      "theme": "Musique",
+      "difficulty": "Difficile",
+      "question": "Quel groupe britannique a sorti Unknown Pleasures en 1979 ?",
+      "options": [
+        "Joy Division",
+        "The Cure",
+        "New Order",
+        "The Smiths"
+      ],
+      "answer": "Joy Division"
+    },
+    {
+      "id": "CA-0151",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel musicien est associé au morceau Take Five du Dave Brubeck Quartet comme compositeur ?",
+      "options": [
+        "Paul Desmond",
+        "Dave Brubeck",
+        "John Coltrane",
+        "Chet Baker"
+      ],
+      "answer": "Paul Desmond"
+    },
+    {
+      "id": "CA-0152",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel album de Nirvana contient Come as You Are ?",
+      "options": [
+        "Nevermind",
+        "In Utero",
+        "Bleach",
+        "Incesticide"
+      ],
+      "answer": "Nevermind"
+    },
+    {
+      "id": "CA-0153",
+      "theme": "Musique",
+      "difficulty": "Difficile",
+      "question": "Quel compositeur a écrit l'opéra Carmen ?",
+      "options": [
+        "Georges Bizet",
+        "Jules Massenet",
+        "Charles Gounod",
+        "Léo Delibes"
+      ],
+      "answer": "Georges Bizet"
+    },
+    {
+      "id": "CA-0154",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel instrument joue principalement Yo-Yo Ma ?",
+      "options": [
+        "Violoncelle",
+        "Violon",
+        "Alto",
+        "Contrebasse"
+      ],
+      "answer": "Violoncelle"
+    },
+    {
+      "id": "CA-0155",
+      "theme": "Musique",
+      "difficulty": "Difficile",
+      "question": "Quel chanteur a publié l'album Graceland en 1986 ?",
+      "options": [
+        "Paul Simon",
+        "Peter Gabriel",
+        "Sting",
+        "Phil Collins"
+      ],
+      "answer": "Paul Simon"
+    },
+    {
+      "id": "CA-0156",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel groupe de rock progressif a sorti Selling England by the Pound ?",
+      "options": [
+        "Genesis",
+        "Yes",
+        "King Crimson",
+        "Jethro Tull"
+      ],
+      "answer": "Genesis"
+    },
+    {
+      "id": "CA-0157",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel artiste a composé Purple Rain ?",
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "George Michael",
+        "Lenny Kravitz"
+      ],
+      "answer": "Prince"
+    },
+    {
+      "id": "CA-0158",
+      "theme": "Musique",
+      "difficulty": "Difficile",
+      "question": "Quel compositeur a écrit la suite orchestrale Les Planètes ?",
+      "options": [
+        "Gustav Holst",
+        "Edward Elgar",
+        "Ralph Vaughan Williams",
+        "Benjamin Britten"
+      ],
+      "answer": "Gustav Holst"
+    },
+    {
+      "id": "CA-0159",
+      "theme": "Musique",
+      "difficulty": "Intermédiaire",
+      "question": "Quel album des Beatles contient la chanson A Day in the Life ?",
+      "options": [
+        "Sgt. Pepper's Lonely Hearts Club Band",
+        "Revolver",
+        "Abbey Road",
+        "Rubber Soul"
+      ],
+      "answer": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+      "id": "CA-0160",
+      "theme": "Musique",
+      "difficulty": "Difficile",
+      "question": "Quel compositeur italien est associé à la naissance de l'opéra avec L'Orfeo ?",
+      "options": [
+        "Claudio Monteverdi",
+        "Antonio Vivaldi",
+        "Gioachino Rossini",
+        "Giuseppe Verdi"
+      ],
+      "answer": "Claudio Monteverdi"
+    },
+    {
+      "id": "CA-0161",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays a remporté l'Euro de football en 2004 ?",
+      "options": [
+        "Grèce",
+        "Portugal",
+        "République tchèque",
+        "Espagne"
+      ],
+      "answer": "Grèce"
+    },
+    {
+      "id": "CA-0162",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel tennisman a remporté Roland-Garros en 1983 ?",
+      "options": [
+        "Yannick Noah",
+        "Ivan Lendl",
+        "Mats Wilander",
+        "Björn Borg"
+      ],
+      "answer": "Yannick Noah"
+    },
+    {
+      "id": "CA-0163",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quelle équipe a remporté la NBA en 2011 avec Dirk Nowitzki ?",
+      "options": [
+        "Dallas Mavericks",
+        "Miami Heat",
+        "Los Angeles Lakers",
+        "San Antonio Spurs"
+      ],
+      "answer": "Dallas Mavericks"
+    },
+    {
+      "id": "CA-0164",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pilote de Formule 1 a remporté le championnat du monde en 2009 ?",
+      "options": [
+        "Jenson Button",
+        "Sebastian Vettel",
+        "Lewis Hamilton",
+        "Fernando Alonso"
+      ],
+      "answer": "Jenson Button"
+    },
+    {
+      "id": "CA-0165",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quel pays a remporté la Coupe du monde féminine de football en 2011 ?",
+      "options": [
+        "Japon",
+        "États-Unis",
+        "Allemagne",
+        "Suède"
+      ],
+      "answer": "Japon"
+    },
+    {
+      "id": "CA-0166",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel nageur a remporté huit médailles d'or aux JO de Pékin en 2008 ?",
+      "options": [
+        "Michael Phelps",
+        "Ryan Lochte",
+        "Ian Thorpe",
+        "Caeleb Dressel"
+      ],
+      "answer": "Michael Phelps"
+    },
+    {
+      "id": "CA-0167",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel cycliste belge a remporté cinq fois le Tour de France ?",
+      "options": [
+        "Eddy Merckx",
+        "Tom Boonen",
+        "Philippe Gilbert",
+        "Johan Museeuw"
+      ],
+      "answer": "Eddy Merckx"
+    },
+    {
+      "id": "CA-0168",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quel club a remporté la première Ligue des champions sous ce nom en 1993 ?",
+      "options": [
+        "Olympique de Marseille",
+        "AC Milan",
+        "FC Barcelone",
+        "Ajax Amsterdam"
+      ],
+      "answer": "Olympique de Marseille"
+    },
+    {
+      "id": "CA-0169",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays a organisé les Jeux olympiques d'hiver de 1994 ?",
+      "options": [
+        "Norvège",
+        "Canada",
+        "Japon",
+        "Autriche"
+      ],
+      "answer": "Norvège"
+    },
+    {
+      "id": "CA-0170",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quel boxeur est surnommé « The Greatest » ?",
+      "options": [
+        "Muhammad Ali",
+        "Joe Frazier",
+        "George Foreman",
+        "Mike Tyson"
+      ],
+      "answer": "Muhammad Ali"
+    },
+    {
+      "id": "CA-0171",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays a remporté la Coupe du monde de cricket masculin en 2019 ?",
+      "options": [
+        "Angleterre",
+        "Nouvelle-Zélande",
+        "Inde",
+        "Australie"
+      ],
+      "answer": "Angleterre"
+    },
+    {
+      "id": "CA-0172",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel athlète a remporté quatre médailles d'or aux JO de Berlin en 1936 ?",
+      "options": [
+        "Jesse Owens",
+        "Carl Lewis",
+        "Emil Zátopek",
+        "Paavo Nurmi"
+      ],
+      "answer": "Jesse Owens"
+    },
+    {
+      "id": "CA-0173",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quel sport est associé à la Coupe de l'America ?",
+      "options": [
+        "Voile",
+        "Golf",
+        "Tennis",
+        "Rugby"
+      ],
+      "answer": "Voile"
+    },
+    {
+      "id": "CA-0174",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pilote français a été champion du monde de Formule 1 quatre fois ?",
+      "options": [
+        "Alain Prost",
+        "Jean Alesi",
+        "René Arnoux",
+        "Jacques Laffite"
+      ],
+      "answer": "Alain Prost"
+    },
+    {
+      "id": "CA-0175",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quelle nation a remporté le Mondial de handball masculin en 2017 ?",
+      "options": [
+        "France",
+        "Norvège",
+        "Danemark",
+        "Espagne"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": "CA-0176",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel joueur de football a remporté le Ballon d'or en 2007 ?",
+      "options": [
+        "Kaká",
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Ronaldinho"
+      ],
+      "answer": "Kaká"
+    },
+    {
+      "id": "CA-0177",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays a remporté la première Coupe du monde de rugby à XV féminine en 1991 ?",
+      "options": [
+        "États-Unis",
+        "Angleterre",
+        "Nouvelle-Zélande",
+        "France"
+      ],
+      "answer": "États-Unis"
+    },
+    {
+      "id": "CA-0178",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quel club allemand joue historiquement au Signal Iduna Park ?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "Schalke 04",
+        "Bayer Leverkusen"
+      ],
+      "answer": "Borussia Dortmund"
+    },
+    {
+      "id": "CA-0179",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle ville a accueilli les Jeux olympiques d'été de 2004 ?",
+      "options": [
+        "Athènes",
+        "Sydney",
+        "Pékin",
+        "Londres"
+      ],
+      "answer": "Athènes"
+    },
+    {
+      "id": "CA-0180",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quel champion espagnol de tennis a remporté l'Open d'Australie en 2009 ?",
+      "options": [
+        "Rafael Nadal",
+        "David Ferrer",
+        "Carlos Moyá",
+        "Juan Carlos Ferrero"
+      ],
+      "answer": "Rafael Nadal"
+    },
+    {
+      "id": "CA-0181",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel studio a développé The Witcher 3: Wild Hunt ?",
+      "options": [
+        "CD Projekt Red",
+        "BioWare",
+        "Bethesda Game Studios",
+        "Larian Studios"
+      ],
+      "answer": "CD Projekt Red"
+    },
+    {
+      "id": "CA-0182",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel jeu de Valve introduit le personnage de GLaDOS ?",
+      "options": [
+        "Portal",
+        "Half-Life 2",
+        "Left 4 Dead",
+        "Team Fortress 2"
+      ],
+      "answer": "Portal"
+    },
+    {
+      "id": "CA-0183",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel créateur est associé à la série Dark Souls et à Elden Ring ?",
+      "options": [
+        "Hidetaka Miyazaki",
+        "Hideo Kojima",
+        "Shigeru Miyamoto",
+        "Yoko Taro"
+      ],
+      "answer": "Hidetaka Miyazaki"
+    },
+    {
+      "id": "CA-0184",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel studio a créé la série Dishonored ?",
+      "options": [
+        "Arkane Studios",
+        "Eidos Montréal",
+        "MachineGames",
+        "id Software"
+      ],
+      "answer": "Arkane Studios"
+    },
+    {
+      "id": "CA-0185",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Dans quelle ville fictive se déroule Grand Theft Auto: Vice City ?",
+      "options": [
+        "Vice City",
+        "Liberty City",
+        "Los Santos",
+        "San Fierro"
+      ],
+      "answer": "Vice City"
+    },
+    {
+      "id": "CA-0186",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel jeu de stratégie de 1998 de Blizzard oppose Terrans, Zergs et Protoss ?",
+      "options": [
+        "StarCraft",
+        "Warcraft III",
+        "Diablo II",
+        "Command & Conquer"
+      ],
+      "answer": "StarCraft"
+    },
+    {
+      "id": "CA-0187",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel jeu de 2013 met en scène Joel et Ellie ?",
+      "options": [
+        "The Last of Us",
+        "Beyond: Two Souls",
+        "Life is Strange",
+        "Days Gone"
+      ],
+      "answer": "The Last of Us"
+    },
+    {
+      "id": "CA-0188",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel jeu de 2007 a popularisé le système de portails bleus et orange ?",
+      "options": [
+        "Portal",
+        "Prey",
+        "Mirror's Edge",
+        "The Talos Principle"
+      ],
+      "answer": "Portal"
+    },
+    {
+      "id": "CA-0189",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel studio a développé la série Horizon sur PlayStation ?",
+      "options": [
+        "Guerrilla Games",
+        "Naughty Dog",
+        "Insomniac Games",
+        "Sucker Punch"
+      ],
+      "answer": "Guerrilla Games"
+    },
+    {
+      "id": "CA-0190",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel jeu de rôle de 2023 est basé sur les règles de Donjons et Dragons 5e édition ?",
+      "options": [
+        "Baldur's Gate 3",
+        "Starfield",
+        "Diablo IV",
+        "Final Fantasy XVI"
+      ],
+      "answer": "Baldur's Gate 3"
+    },
+    {
+      "id": "CA-0191",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel studio est à l'origine de la série Civilization ?",
+      "options": [
+        "MicroProse",
+        "Maxis",
+        "Ensemble Studios",
+        "Westwood Studios"
+      ],
+      "answer": "MicroProse"
+    },
+    {
+      "id": "CA-0192",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel personnage est le protagoniste principal de Red Dead Redemption 2 ?",
+      "options": [
+        "Arthur Morgan",
+        "John Marston",
+        "Dutch van der Linde",
+        "Jack Marston"
+      ],
+      "answer": "Arthur Morgan"
+    },
+    {
+      "id": "CA-0193",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel jeu d'action de 2019 suit un shinobi nommé Loup ?",
+      "options": [
+        "Sekiro: Shadows Die Twice",
+        "Nioh 2",
+        "Ghost of Tsushima",
+        "Wo Long"
+      ],
+      "answer": "Sekiro: Shadows Die Twice"
+    },
+    {
+      "id": "CA-0194",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel studio a développé Hollow Knight ?",
+      "options": [
+        "Team Cherry",
+        "Supergiant Games",
+        "Motion Twin",
+        "Moon Studios"
+      ],
+      "answer": "Team Cherry"
+    },
+    {
+      "id": "CA-0195",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel jeu d'horreur de 1996 introduit le manoir Spencer ?",
+      "options": [
+        "Resident Evil",
+        "Silent Hill",
+        "Alone in the Dark",
+        "Fatal Frame"
+      ],
+      "answer": "Resident Evil"
+    },
+    {
+      "id": "CA-0196",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel jeu de 2000 de Ion Storm a pour protagoniste JC Denton ?",
+      "options": [
+        "Deus Ex",
+        "System Shock 2",
+        "Thief II",
+        "Anachronox"
+      ],
+      "answer": "Deus Ex"
+    },
+    {
+      "id": "CA-0197",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle société a commercialisé la console Dreamcast ?",
+      "options": [
+        "Sega",
+        "Nintendo",
+        "Sony",
+        "Atari"
+      ],
+      "answer": "Sega"
+    },
+    {
+      "id": "CA-0198",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel jeu de gestion de 1999 a été conçu par Chris Sawyer ?",
+      "options": [
+        "RollerCoaster Tycoon",
+        "The Sims 2",
+        "Zoo Tycoon 2",
+        "Transport Tycoon Deluxe"
+      ],
+      "answer": "RollerCoaster Tycoon"
+    },
+    {
+      "id": "CA-0199",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel jeu de 2015 de Supergiant Games met en scène une épée parlante nommée Transistor ?",
+      "options": [
+        "Transistor",
+        "Bastion",
+        "Pyre",
+        "Hades"
+      ],
+      "answer": "Transistor"
+    },
+    {
+      "id": "CA-0200",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel studio a développé Control sorti en 2019 ?",
+      "options": [
+        "Remedy Entertainment",
+        "Quantic Dream",
+        "IO Interactive",
+        "Dontnod Entertainment"
+      ],
+      "answer": "Remedy Entertainment"
+    },
+    {
+      "id": "CA-0201",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Qui a écrit Cent ans de solitude ?",
+      "options": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges",
+        "Julio Cortázar"
+      ],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "id": "CA-0202",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel roman de Dostoïevski met en scène Raskolnikov ?",
+      "options": [
+        "Crime et Châtiment",
+        "Les Frères Karamazov",
+        "L'Idiot",
+        "Les Démons"
+      ],
+      "answer": "Crime et Châtiment"
+    },
+    {
+      "id": "CA-0203",
+      "theme": "Littérature",
+      "difficulty": "Difficile",
+      "question": "Qui est l'auteur de Madame Bovary ?",
+      "options": [
+        "Gustave Flaubert",
+        "Émile Zola",
+        "Guy de Maupassant",
+        "Stendhal"
+      ],
+      "answer": "Gustave Flaubert"
+    },
+    {
+      "id": "CA-0204",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel auteur a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Maurice Leblanc",
+        "G. K. Chesterton"
+      ],
+      "answer": "Arthur Conan Doyle"
+    },
+    {
+      "id": "CA-0205",
+      "theme": "Littérature",
+      "difficulty": "Difficile",
+      "question": "Quel roman de Virginia Woolf suit une journée de Clarissa Dalloway ?",
+      "options": [
+        "Mrs Dalloway",
+        "Orlando",
+        "La Promenade au phare",
+        "Les Vagues"
+      ],
+      "answer": "Mrs Dalloway"
+    },
+    {
+      "id": "CA-0206",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Qui a écrit Le Guépard ?",
+      "options": [
+        "Giuseppe Tomasi di Lampedusa",
+        "Italo Calvino",
+        "Umberto Eco",
+        "Cesare Pavese"
+      ],
+      "answer": "Giuseppe Tomasi di Lampedusa"
+    },
+    {
+      "id": "CA-0207",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel roman de George Orwell décrit une ferme dirigée par des animaux ?",
+      "options": [
+        "La Ferme des animaux",
+        "1984",
+        "Un peu d'air frais",
+        "Dans la dèche à Paris et à Londres"
+      ],
+      "answer": "La Ferme des animaux"
+    },
+    {
+      "id": "CA-0208",
+      "theme": "Littérature",
+      "difficulty": "Difficile",
+      "question": "Qui a écrit À la recherche du temps perdu ?",
+      "options": [
+        "Marcel Proust",
+        "André Gide",
+        "Louis-Ferdinand Céline",
+        "Paul Valéry"
+      ],
+      "answer": "Marcel Proust"
+    },
+    {
+      "id": "CA-0209",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel auteur a écrit Le Maître et Marguerite ?",
+      "options": [
+        "Mikhaïl Boulgakov",
+        "Boris Pasternak",
+        "Alexandre Soljenitsyne",
+        "Vladimir Nabokov"
+      ],
+      "answer": "Mikhaïl Boulgakov"
+    },
+    {
+      "id": "CA-0210",
+      "theme": "Littérature",
+      "difficulty": "Difficile",
+      "question": "Quel roman d'Emily Brontë met en scène Heathcliff ?",
+      "options": [
+        "Les Hauts de Hurlevent",
+        "Jane Eyre",
+        "Agnes Grey",
+        "Le Locataire de Wildfell Hall"
+      ],
+      "answer": "Les Hauts de Hurlevent"
+    },
+    {
+      "id": "CA-0211",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Qui a écrit Le Désert des Tartares ?",
+      "options": [
+        "Dino Buzzati",
+        "Primo Levi",
+        "Italo Svevo",
+        "Alberto Moravia"
+      ],
+      "answer": "Dino Buzzati"
+    },
+    {
+      "id": "CA-0212",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel poète a écrit Les Fleurs du mal ?",
+      "options": [
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Stéphane Mallarmé"
+      ],
+      "answer": "Charles Baudelaire"
+    },
+    {
+      "id": "CA-0213",
+      "theme": "Littérature",
+      "difficulty": "Difficile",
+      "question": "Quel écrivain a reçu le prix Nobel de littérature en 1957 ?",
+      "options": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "André Malraux",
+        "Samuel Beckett"
+      ],
+      "answer": "Albert Camus"
+    },
+    {
+      "id": "CA-0214",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Qui a écrit Le Monde d'hier ?",
+      "options": [
+        "Stefan Zweig",
+        "Joseph Roth",
+        "Hermann Broch",
+        "Robert Musil"
+      ],
+      "answer": "Stefan Zweig"
+    },
+    {
+      "id": "CA-0215",
+      "theme": "Littérature",
+      "difficulty": "Difficile",
+      "question": "Quel roman de Mary Shelley met en scène Victor Frankenstein ?",
+      "options": [
+        "Frankenstein ou le Prométhée moderne",
+        "Le Dernier Homme",
+        "Mathilda",
+        "Valperga"
+      ],
+      "answer": "Frankenstein ou le Prométhée moderne"
+    },
+    {
+      "id": "CA-0216",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel auteur est à l'origine du personnage d'Emma Woodhouse ?",
+      "options": [
+        "Jane Austen",
+        "Charlotte Brontë",
+        "George Eliot",
+        "Elizabeth Gaskell"
+      ],
+      "answer": "Jane Austen"
+    },
+    {
+      "id": "CA-0217",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel écrivain a créé le commissaire Maigret ?",
+      "options": [
+        "Georges Simenon",
+        "Léo Malet",
+        "Fred Vargas",
+        "Pierre Lemaitre"
+      ],
+      "answer": "Georges Simenon"
+    },
+    {
+      "id": "CA-0218",
+      "theme": "Littérature",
+      "difficulty": "Difficile",
+      "question": "Qui a écrit Le Vieil Homme et la Mer ?",
+      "options": [
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "William Faulkner",
+        "F. Scott Fitzgerald"
+      ],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "id": "CA-0219",
+      "theme": "Littérature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel roman de Milan Kundera se déroule en partie pendant le Printemps de Prague ?",
+      "options": [
+        "L'Insoutenable Légèreté de l'être",
+        "La Plaisanterie",
+        "L'Immortalité",
+        "La Valse aux adieux"
+      ],
+      "answer": "L'Insoutenable Légèreté de l'être"
+    },
+    {
+      "id": "CA-0220",
+      "theme": "Littérature",
+      "difficulty": "Difficile",
+      "question": "Qui a écrit Le Portrait de Dorian Gray ?",
+      "options": [
+        "Oscar Wilde",
+        "Bram Stoker",
+        "Robert Louis Stevenson",
+        "Henry James"
+      ],
+      "answer": "Oscar Wilde"
+    },
+    {
+      "id": "CA-0221",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Qui est le dieu grec de la forge et du feu ?",
+      "options": [
+        "Héphaïstos",
+        "Hermès",
+        "Apollon",
+        "Arès"
+      ],
+      "answer": "Héphaïstos"
+    },
+    {
+      "id": "CA-0222",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel héros grec est le fils de Pélée et de Thétis ?",
+      "options": [
+        "Achille",
+        "Hector",
+        "Ulysse",
+        "Persée"
+      ],
+      "answer": "Achille"
+    },
+    {
+      "id": "CA-0223",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quel dieu égyptien est représenté avec une tête de faucon ?",
+      "options": [
+        "Horus",
+        "Anubis",
+        "Thot",
+        "Sobek"
+      ],
+      "answer": "Horus"
+    },
+    {
+      "id": "CA-0224",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel dieu nordique perd un œil en échange de la sagesse ?",
+      "options": [
+        "Odin",
+        "Thor",
+        "Freyr",
+        "Baldr"
+      ],
+      "answer": "Odin"
+    },
+    {
+      "id": "CA-0225",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quelle déesse grecque surgit armée de la tête de Zeus ?",
+      "options": [
+        "Athéna",
+        "Aphrodite",
+        "Héra",
+        "Perséphone"
+      ],
+      "answer": "Athéna"
+    },
+    {
+      "id": "CA-0226",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel monstre grec possède un corps de lion, une tête de chèvre et une queue de serpent ?",
+      "options": [
+        "Chimère",
+        "Hydre",
+        "Sphinx",
+        "Cerbère"
+      ],
+      "answer": "Chimère"
+    },
+    {
+      "id": "CA-0227",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel héros grec ramène la Toison d'or avec les Argonautes ?",
+      "options": [
+        "Jason",
+        "Thésée",
+        "Persée",
+        "Bellérophon"
+      ],
+      "answer": "Jason"
+    },
+    {
+      "id": "CA-0228",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quel dieu romain correspond à Hermès dans la mythologie grecque ?",
+      "options": [
+        "Mercure",
+        "Mars",
+        "Janus",
+        "Vulcain"
+      ],
+      "answer": "Mercure"
+    },
+    {
+      "id": "CA-0229",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel fleuve des Enfers est associé à l'oubli ?",
+      "options": [
+        "Léthé",
+        "Styx",
+        "Achéron",
+        "Cocyte"
+      ],
+      "answer": "Léthé"
+    },
+    {
+      "id": "CA-0230",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quel dieu égyptien est associé au monde des morts et à la résurrection ?",
+      "options": [
+        "Osiris",
+        "Râ",
+        "Ptah",
+        "Seth"
+      ],
+      "answer": "Osiris"
+    },
+    {
+      "id": "CA-0231",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle figure nordique est liée à la tromperie et au changement de forme ?",
+      "options": [
+        "Loki",
+        "Heimdall",
+        "Týr",
+        "Njörd"
+      ],
+      "answer": "Loki"
+    },
+    {
+      "id": "CA-0232",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel héros grec accomplit douze travaux imposés par Eurysthée ?",
+      "options": [
+        "Héraclès",
+        "Achille",
+        "Orphée",
+        "Cadmos"
+      ],
+      "answer": "Héraclès"
+    },
+    {
+      "id": "CA-0233",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quelle déesse mésopotamienne est associée à l'amour et à la guerre ?",
+      "options": [
+        "Ishtar",
+        "Ninhursag",
+        "Ereshkigal",
+        "Nanshe"
+      ],
+      "answer": "Ishtar"
+    },
+    {
+      "id": "CA-0234",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel personnage mythologique grec est condamné à pousser éternellement un rocher ?",
+      "options": [
+        "Sisyphe",
+        "Tantale",
+        "Ixion",
+        "Prométhée"
+      ],
+      "answer": "Sisyphe"
+    },
+    {
+      "id": "CA-0235",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quel dieu nordique garde le pont Bifröst ?",
+      "options": [
+        "Heimdall",
+        "Baldr",
+        "Freyr",
+        "Ullr"
+      ],
+      "answer": "Heimdall"
+    },
+    {
+      "id": "CA-0236",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle déesse grecque est la mère de Perséphone ?",
+      "options": [
+        "Déméter",
+        "Héra",
+        "Hestia",
+        "Artémis"
+      ],
+      "answer": "Déméter"
+    },
+    {
+      "id": "CA-0237",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel personnage grec descend aux Enfers pour tenter de ramener Eurydice ?",
+      "options": [
+        "Orphée",
+        "Thésée",
+        "Jason",
+        "Ulysse"
+      ],
+      "answer": "Orphée"
+    },
+    {
+      "id": "CA-0238",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quel animal mythique renaît de ses cendres ?",
+      "options": [
+        "Phénix",
+        "Griffon",
+        "Hippocampe",
+        "Pégase"
+      ],
+      "answer": "Phénix"
+    },
+    {
+      "id": "CA-0239",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel dieu hindou est traditionnellement associé à la préservation dans la Trimurti ?",
+      "options": [
+        "Vishnou",
+        "Brahmâ",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": "Vishnou"
+    },
+    {
+      "id": "CA-0240",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quel héros mésopotamien est accompagné d'Enkidu ?",
+      "options": [
+        "Gilgamesh",
+        "Enmerkar",
+        "Etana",
+        "Lugalbanda"
+      ],
+      "answer": "Gilgamesh"
+    },
+    {
+      "id": "CA-0241",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel protocole sécurise généralement les échanges HTTPS ?",
+      "options": [
+        "TLS",
+        "FTP",
+        "SMTP",
+        "SNMP"
+      ],
+      "answer": "TLS"
+    },
+    {
+      "id": "CA-0242",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel algorithme de chiffrement symétrique est largement utilisé avec des clés de 128, 192 ou 256 bits ?",
+      "options": [
+        "AES",
+        "RSA",
+        "ECDSA",
+        "SHA-256"
+      ],
+      "answer": "AES"
+    },
+    {
+      "id": "CA-0243",
+      "theme": "Technologie",
+      "difficulty": "Difficile",
+      "question": "Quel langage de programmation a été conçu par Guido van Rossum ?",
+      "options": [
+        "Python",
+        "Ruby",
+        "Perl",
+        "Lua"
+      ],
+      "answer": "Python"
+    },
+    {
+      "id": "CA-0244",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel système de fichiers est courant sur les distributions Linux ?",
+      "options": [
+        "ext4",
+        "NTFS",
+        "APFS",
+        "FAT12"
+      ],
+      "answer": "ext4"
+    },
+    {
+      "id": "CA-0245",
+      "theme": "Technologie",
+      "difficulty": "Difficile",
+      "question": "Quel protocole sert principalement à synchroniser les horloges des machines sur un réseau ?",
+      "options": [
+        "NTP",
+        "DNS",
+        "IMAP",
+        "SSH"
+      ],
+      "answer": "NTP"
+    },
+    {
+      "id": "CA-0246",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle structure de données suit le principe dernier entré, premier sorti ?",
+      "options": [
+        "Pile",
+        "File",
+        "Arbre binaire",
+        "Graphe orienté"
+      ],
+      "answer": "Pile"
+    },
+    {
+      "id": "CA-0247",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel modèle d'architecture réseau comporte sept couches conceptuelles ?",
+      "options": [
+        "Modèle OSI",
+        "Modèle MVC",
+        "Modèle REST",
+        "Modèle CAP"
+      ],
+      "answer": "Modèle OSI"
+    },
+    {
+      "id": "CA-0248",
+      "theme": "Technologie",
+      "difficulty": "Difficile",
+      "question": "Quelle entreprise a créé le langage de programmation Java ?",
+      "options": [
+        "Sun Microsystems",
+        "Microsoft",
+        "IBM",
+        "Oracle à l'origine"
+      ],
+      "answer": "Sun Microsystems"
+    },
+    {
+      "id": "CA-0249",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel type d'attaque consiste à saturer un service avec du trafic provenant de multiples sources ?",
+      "options": [
+        "DDoS",
+        "Phishing",
+        "Injection SQL",
+        "Man-in-the-middle"
+      ],
+      "answer": "DDoS"
+    },
+    {
+      "id": "CA-0250",
+      "theme": "Technologie",
+      "difficulty": "Difficile",
+      "question": "Quel système de conteneurisation est associé aux images et Dockerfile ?",
+      "options": [
+        "Docker",
+        "VirtualBox",
+        "VMware Workstation",
+        "QEMU"
+      ],
+      "answer": "Docker"
+    },
+    {
+      "id": "CA-0251",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel langage de requête est utilisé dans les bases de données relationnelles ?",
+      "options": [
+        "SQL",
+        "CSS",
+        "XML",
+        "YAML"
+      ],
+      "answer": "SQL"
+    },
+    {
+      "id": "CA-0252",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle technologie permet une communication sans fil à très courte distance pour le paiement sans contact ?",
+      "options": [
+        "NFC",
+        "LoRaWAN",
+        "WiMAX",
+        "Zigbee longue portée"
+      ],
+      "answer": "NFC"
+    },
+    {
+      "id": "CA-0253",
+      "theme": "Technologie",
+      "difficulty": "Difficile",
+      "question": "Quel terme désigne la durée nécessaire à un paquet pour effectuer un aller-retour réseau ?",
+      "options": [
+        "RTT",
+        "MTU",
+        "TTL",
+        "BGP"
+      ],
+      "answer": "RTT"
+    },
+    {
+      "id": "CA-0254",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel algorithme de hachage produit une empreinte de 256 bits ?",
+      "options": [
+        "SHA-256",
+        "MD5",
+        "SHA-1",
+        "CRC32"
+      ],
+      "answer": "SHA-256"
+    },
+    {
+      "id": "CA-0255",
+      "theme": "Technologie",
+      "difficulty": "Difficile",
+      "question": "Quel protocole est utilisé pour l'échange de routes entre systèmes autonomes sur Internet ?",
+      "options": [
+        "BGP",
+        "ARP",
+        "DHCP",
+        "HTTP"
+      ],
+      "answer": "BGP"
+    },
+    {
+      "id": "CA-0256",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel système de contrôle de version distribué a été créé en 2005 par Linus Torvalds ?",
+      "options": [
+        "Git",
+        "CVS",
+        "Subversion",
+        "Perforce"
+      ],
+      "answer": "Git"
+    },
+    {
+      "id": "CA-0257",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle propriété garantit qu'une opération de base de données est exécutée entièrement ou pas du tout ?",
+      "options": [
+        "Atomicité",
+        "Durabilité",
+        "Isolation",
+        "Cohérence"
+      ],
+      "answer": "Atomicité"
+    },
+    {
+      "id": "CA-0258",
+      "theme": "Technologie",
+      "difficulty": "Difficile",
+      "question": "Quel terme désigne un logiciel malveillant qui chiffre les fichiers contre une rançon ?",
+      "options": [
+        "Rançongiciel",
+        "Ver informatique",
+        "Logiciel publicitaire",
+        "Rootkit"
+      ],
+      "answer": "Rançongiciel"
+    },
+    {
+      "id": "CA-0259",
+      "theme": "Technologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle norme décrit généralement les réseaux locaux Ethernet filaires ?",
+      "options": [
+        "IEEE 802.3",
+        "IEEE 802.11",
+        "IEEE 802.15.4",
+        "IEEE 802.16"
+      ],
+      "answer": "IEEE 802.3"
+    },
+    {
+      "id": "CA-0260",
+      "theme": "Technologie",
+      "difficulty": "Difficile",
+      "question": "Quel mécanisme de sécurité ajoute un second facteur à un mot de passe ?",
+      "options": [
+        "Authentification multifacteur",
+        "Chiffrement homomorphe",
+        "Hachage salé",
+        "Liste de contrôle d'accès"
+      ],
+      "answer": "Authentification multifacteur"
+    },
+    {
+      "id": "CA-0261",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "De quelle région italienne les arancini sont-ils une spécialité ?",
+      "options": [
+        "Sicile",
+        "Toscane",
+        "Piémont",
+        "Ombrie"
+      ],
+      "answer": "Sicile"
+    },
+    {
+      "id": "CA-0262",
+      "theme": "Gastronomie",
+      "difficulty": "Difficile",
+      "question": "Quel fromage italien est traditionnellement utilisé dans le tiramisu ?",
+      "options": [
+        "Mascarpone",
+        "Ricotta",
+        "Gorgonzola",
+        "Pecorino"
+      ],
+      "answer": "Mascarpone"
+    },
+    {
+      "id": "CA-0263",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel plat coréen est constitué de légumes fermentés, généralement du chou ?",
+      "options": [
+        "Kimchi",
+        "Bibimbap",
+        "Japchae",
+        "Tteokbokki"
+      ],
+      "answer": "Kimchi"
+    },
+    {
+      "id": "CA-0264",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle épice donne au risotto milanais sa couleur dorée ?",
+      "options": [
+        "Safran",
+        "Curcuma",
+        "Paprika",
+        "Cumin"
+      ],
+      "answer": "Safran"
+    },
+    {
+      "id": "CA-0265",
+      "theme": "Gastronomie",
+      "difficulty": "Difficile",
+      "question": "Quel pays est associé à la soupe pho ?",
+      "options": [
+        "Vietnam",
+        "Thaïlande",
+        "Laos",
+        "Cambodge"
+      ],
+      "answer": "Vietnam"
+    },
+    {
+      "id": "CA-0266",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle pâtisserie portugaise est une petite tarte à la crème caramélisée ?",
+      "options": [
+        "Pastel de nata",
+        "Bolo rei",
+        "Queijada de Sintra",
+        "Pão de ló"
+      ],
+      "answer": "Pastel de nata"
+    },
+    {
+      "id": "CA-0267",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Dans quel pays le ceviche est-il particulièrement emblématique ?",
+      "options": [
+        "Pérou",
+        "Argentine",
+        "Uruguay",
+        "Paraguay"
+      ],
+      "answer": "Pérou"
+    },
+    {
+      "id": "CA-0268",
+      "theme": "Gastronomie",
+      "difficulty": "Difficile",
+      "question": "Quelle pâte de piment est typique de la cuisine tunisienne ?",
+      "options": [
+        "Harissa",
+        "Sambal",
+        "Gochujang",
+        "Ajvar"
+      ],
+      "answer": "Harissa"
+    },
+    {
+      "id": "CA-0269",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle région française est traditionnellement associée au kouign-amann ?",
+      "options": [
+        "Bretagne",
+        "Normandie",
+        "Alsace",
+        "Savoie"
+      ],
+      "answer": "Bretagne"
+    },
+    {
+      "id": "CA-0270",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel fromage grec entre traditionnellement dans la salade horiatiki ?",
+      "options": [
+        "Feta",
+        "Halloumi",
+        "Kasseri",
+        "Manouri"
+      ],
+      "answer": "Feta"
+    },
+    {
+      "id": "CA-0271",
+      "theme": "Gastronomie",
+      "difficulty": "Difficile",
+      "question": "Quel alcool est utilisé dans la recette classique du baba au rhum ?",
+      "options": [
+        "Rhum",
+        "Cognac",
+        "Calvados",
+        "Armagnac"
+      ],
+      "answer": "Rhum"
+    },
+    {
+      "id": "CA-0272",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel ingrédient principal compose le houmous traditionnel ?",
+      "options": [
+        "Pois chiches",
+        "Lentilles",
+        "Haricots blancs",
+        "Fèves"
+      ],
+      "answer": "Pois chiches"
+    },
+    {
+      "id": "CA-0273",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel type de nouilles est utilisé dans les soba japonaises ?",
+      "options": [
+        "Sarrasin",
+        "Riz",
+        "Blé dur",
+        "Patate douce"
+      ],
+      "answer": "Sarrasin"
+    },
+    {
+      "id": "CA-0274",
+      "theme": "Gastronomie",
+      "difficulty": "Difficile",
+      "question": "Quel pays est réputé pour le plat appelé goulasch ?",
+      "options": [
+        "Hongrie",
+        "Roumanie",
+        "Bulgarie",
+        "Croatie"
+      ],
+      "answer": "Hongrie"
+    },
+    {
+      "id": "CA-0275",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel dessert autrichien consiste en un gâteau au chocolat garni de confiture d'abricot ?",
+      "options": [
+        "Sachertorte",
+        "Apfelstrudel",
+        "Linzer Torte",
+        "Kaiserschmarrn"
+      ],
+      "answer": "Sachertorte"
+    },
+    {
+      "id": "CA-0276",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle spécialité espagnole est une soupe froide à base de tomate ?",
+      "options": [
+        "Gazpacho",
+        "Salmorejo de Cordoue",
+        "Ajoblanco",
+        "Escudella"
+      ],
+      "answer": "Gazpacho"
+    },
+    {
+      "id": "CA-0277",
+      "theme": "Gastronomie",
+      "difficulty": "Difficile",
+      "question": "Quel fromage à pâte persillée est produit dans l'Aveyron ?",
+      "options": [
+        "Roquefort",
+        "Fourme d'Ambert",
+        "Bleu de Gex",
+        "Gorgonzola"
+      ],
+      "answer": "Roquefort"
+    },
+    {
+      "id": "CA-0278",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Dans quel pays trouve-t-on traditionnellement le plat appelé injera ?",
+      "options": [
+        "Éthiopie",
+        "Maroc",
+        "Sénégal",
+        "Égypte"
+      ],
+      "answer": "Éthiopie"
+    },
+    {
+      "id": "CA-0279",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel fruit est à la base du guacamole ?",
+      "options": [
+        "Avocat",
+        "Mangue",
+        "Tomate",
+        "Citron vert"
+      ],
+      "answer": "Avocat"
+    },
+    {
+      "id": "CA-0280",
+      "theme": "Gastronomie",
+      "difficulty": "Difficile",
+      "question": "Quelle préparation japonaise consiste en des brochettes généralement grillées ?",
+      "options": [
+        "Yakitori",
+        "Tempura",
+        "Udon",
+        "Onigiri"
+      ],
+      "answer": "Yakitori"
+    },
+    {
+      "id": "CA-0281",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle ville italienne est associée à la sauce bolognaise ?",
+      "options": [
+        "Bologne",
+        "Naples",
+        "Florence",
+        "Turin"
+      ],
+      "answer": "Bologne"
+    },
+    {
+      "id": "CA-0282",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel plat levantin est préparé avec du boulgour, du persil et de la menthe ?",
+      "options": [
+        "Taboulé",
+        "Fattouche",
+        "Moutabal",
+        "Labné"
+      ],
+      "answer": "Taboulé"
+    },
+    {
+      "id": "CA-0283",
+      "theme": "Gastronomie",
+      "difficulty": "Difficile",
+      "question": "Quel condiment japonais est obtenu par fermentation de graines de soja ?",
+      "options": [
+        "Miso",
+        "Wasabi",
+        "Mirin",
+        "Ponzu"
+      ],
+      "answer": "Miso"
+    },
+    {
+      "id": "CA-0284",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel dessert français est constitué de choux garnis de crème et nappés de chocolat ?",
+      "options": [
+        "Profiteroles",
+        "Paris-Brest",
+        "Saint-honoré",
+        "Religieuse"
+      ],
+      "answer": "Profiteroles"
+    },
+    {
+      "id": "CA-0285",
+      "theme": "Gastronomie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel plat mexicain associe des tortillas garnies, roulées et nappées de sauce ?",
+      "options": [
+        "Enchiladas",
+        "Quesadillas",
+        "Tostadas",
+        "Tamales"
+      ],
+      "answer": "Enchiladas"
+    },
+    {
+      "id": "CA-0286",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel oiseau est célèbre pour construire et décorer des tonnelles afin de séduire ?",
+      "options": [
+        "Jardinier satiné",
+        "Martin-pêcheur",
+        "Hirondelle rustique",
+        "Pic épeiche"
+      ],
+      "answer": "Jardinier satiné"
+    },
+    {
+      "id": "CA-0287",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel mammifère australien pond des œufs et possède un bec ?",
+      "options": [
+        "Ornithorynque",
+        "Wombat",
+        "Koala",
+        "Dingo"
+      ],
+      "answer": "Ornithorynque"
+    },
+    {
+      "id": "CA-0288",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel arbre produit des glands ?",
+      "options": [
+        "Chêne",
+        "Hêtre",
+        "Charme",
+        "Frêne"
+      ],
+      "answer": "Chêne"
+    },
+    {
+      "id": "CA-0289",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel animal est surnommé « licorne des mers » à cause de sa défense ?",
+      "options": [
+        "Narval",
+        "Béluga",
+        "Orque",
+        "Dauphin de Risso"
+      ],
+      "answer": "Narval"
+    },
+    {
+      "id": "CA-0290",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel grand félin est naturellement présent en Amérique du Sud ?",
+      "options": [
+        "Jaguar",
+        "Tigre",
+        "Léopard des neiges",
+        "Guépard"
+      ],
+      "answer": "Jaguar"
+    },
+    {
+      "id": "CA-0291",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle plante carnivore est connue pour ses pièges qui se referment rapidement ?",
+      "options": [
+        "Dionée attrape-mouche",
+        "Drosera",
+        "Nepenthes",
+        "Sarracénie"
+      ],
+      "answer": "Dionée attrape-mouche"
+    },
+    {
+      "id": "CA-0292",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel oiseau marin ne vole pas et vit notamment en Antarctique ?",
+      "options": [
+        "Manchot empereur",
+        "Pingouin torda",
+        "Macareux moine",
+        "Cormoran huppé"
+      ],
+      "answer": "Manchot empereur"
+    },
+    {
+      "id": "CA-0293",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel mammifère est réputé pour ses déplacements très lents dans les arbres d'Amérique tropicale ?",
+      "options": [
+        "Paresseux",
+        "Pangolin",
+        "Tapir",
+        "Fourmilier"
+      ],
+      "answer": "Paresseux"
+    },
+    {
+      "id": "CA-0294",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle fleur est traditionnellement associée aux Pays-Bas et à leurs champs printaniers ?",
+      "options": [
+        "Tulipe",
+        "Lavande",
+        "Pivoine",
+        "Iris"
+      ],
+      "answer": "Tulipe"
+    },
+    {
+      "id": "CA-0295",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel animal marin peut changer rapidement de couleur et de texture pour se camoufler ?",
+      "options": [
+        "Poulpe",
+        "Étoile de mer",
+        "Oursin",
+        "Méduse lune"
+      ],
+      "answer": "Poulpe"
+    },
+    {
+      "id": "CA-0296",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel arbre est emblématique de Madagascar avec son tronc massif ?",
+      "options": [
+        "Baobab",
+        "Séquoia",
+        "Cèdre du Liban",
+        "Bouleau"
+      ],
+      "answer": "Baobab"
+    },
+    {
+      "id": "CA-0297",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel grand oiseau incapable de voler est originaire de Nouvelle-Zélande ?",
+      "options": [
+        "Kiwi",
+        "Émeu",
+        "Casoar",
+        "Autruche"
+      ],
+      "answer": "Kiwi"
+    },
+    {
+      "id": "CA-0298",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel mammifère porte des écailles de kératine et se roule en boule pour se défendre ?",
+      "options": [
+        "Pangolin",
+        "Tatou géant",
+        "Hérisson",
+        "Échidné"
+      ],
+      "answer": "Pangolin"
+    },
+    {
+      "id": "CA-0299",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel animal est connu pour utiliser des pierres afin d'ouvrir des coquillages en mer ?",
+      "options": [
+        "Loutre de mer",
+        "Phoque gris",
+        "Lamantin",
+        "Dauphin commun"
+      ],
+      "answer": "Loutre de mer"
+    },
+    {
+      "id": "CA-0300",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel arbre produit des samares doubles souvent surnommées « hélicoptères » ?",
+      "options": [
+        "Érable",
+        "Châtaignier",
+        "Olivier",
+        "Tilleul"
+      ],
+      "answer": "Érable"
+    },
+    {
+      "id": "CA-0301",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel animal d'Afrique possède un long cou et un pelage tacheté ?",
+      "options": [
+        "Girafe",
+        "Okapi",
+        "Gnou",
+        "Oryx"
+      ],
+      "answer": "Girafe"
+    },
+    {
+      "id": "CA-0302",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle plante est célèbre pour sa floraison spectaculaire au Japon au printemps ?",
+      "options": [
+        "Cerisier sakura",
+        "Ginkgo",
+        "Bambou",
+        "Érable rouge"
+      ],
+      "answer": "Cerisier sakura"
+    },
+    {
+      "id": "CA-0303",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel insecte effectue de grandes migrations entre le Canada et le Mexique ?",
+      "options": [
+        "Papillon monarque",
+        "Machaon",
+        "Paon-du-jour",
+        "Moro-sphinx"
+      ],
+      "answer": "Papillon monarque"
+    },
+    {
+      "id": "CA-0304",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel animal nocturne de Madagascar est reconnaissable à ses grands yeux et à sa longue queue annelée ?",
+      "options": [
+        "Maki catta",
+        "Loris lent",
+        "Tarsier",
+        "Galago"
+      ],
+      "answer": "Maki catta"
+    },
+    {
+      "id": "CA-0305",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel arbre méditerranéen fournit le liège de son écorce ?",
+      "options": [
+        "Chêne-liège",
+        "Pin parasol",
+        "Cyprès",
+        "Olivier"
+      ],
+      "answer": "Chêne-liège"
+    },
+    {
+      "id": "CA-0306",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel poisson est célèbre pour ses déplacements hors de l'eau sur les vasières ?",
+      "options": [
+        "Périophtalme",
+        "Poisson-clown",
+        "Hippocampe",
+        "Poisson-lune"
+      ],
+      "answer": "Périophtalme"
+    },
+    {
+      "id": "CA-0307",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel oiseau est connu pour imiter de nombreux sons, y compris des bruits artificiels ?",
+      "options": [
+        "Ménure superbe",
+        "Flamant rose",
+        "Cigogne blanche",
+        "Faucon pèlerin"
+      ],
+      "answer": "Ménure superbe"
+    },
+    {
+      "id": "CA-0308",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quel mammifère africain se nourrit principalement de termites avec sa longue langue ?",
+      "options": [
+        "Oryctérope",
+        "Hippopotame",
+        "Phacochère",
+        "Buffle"
+      ],
+      "answer": "Oryctérope"
+    },
+    {
+      "id": "CA-0309",
+      "theme": "Nature",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle fleur pousse fréquemment dans les prairies et possède un cœur jaune entouré de pétales blancs ?",
+      "options": [
+        "Marguerite",
+        "Coquelicot",
+        "Bleuet",
+        "Gentiane"
+      ],
+      "answer": "Marguerite"
+    },
+    {
+      "id": "CA-0310",
+      "theme": "Nature",
+      "difficulty": "Difficile",
+      "question": "Quel reptile est connu pour sa capacité à changer de couleur et à orienter ses yeux indépendamment ?",
+      "options": [
+        "Caméléon",
+        "Gecko léopard",
+        "Iguane marin",
+        "Varan de Komodo"
+      ],
+      "answer": "Caméléon"
+    },
+    {
+      "id": "CA-0311",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel empereur romain fit construire un mur défensif dans le nord de la Bretagne antique ?",
+      "options": [
+        "Hadrien",
+        "Néron",
+        "Caligula",
+        "Trajan"
+      ],
+      "answer": "Hadrien"
+    },
+    {
+      "id": "CA-0312",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel traité de 1648 mit fin à la guerre de Trente Ans ?",
+      "options": [
+        "Traités de Westphalie",
+        "Traité d'Utrecht",
+        "Traité de Verdun",
+        "Traité de Tordesillas"
+      ],
+      "answer": "Traités de Westphalie"
+    },
+    {
+      "id": "CA-0313",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel souverain français fut surnommé « le Roi-Soleil » ?",
+      "options": [
+        "Louis XIV",
+        "Louis XV",
+        "Henri IV",
+        "François Ier"
+      ],
+      "answer": "Louis XIV"
+    },
+    {
+      "id": "CA-0314",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle bataille de 1066 permit à Guillaume le Conquérant de prendre le trône anglais ?",
+      "options": [
+        "Hastings",
+        "Azincourt",
+        "Bouvines",
+        "Bosworth"
+      ],
+      "answer": "Hastings"
+    },
+    {
+      "id": "CA-0315",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel royaume africain médiéval fut dirigé par Mansa Moussa ?",
+      "options": [
+        "Empire du Mali",
+        "Royaume du Kongo",
+        "Empire du Ghana",
+        "Royaume d'Aksoum"
+      ],
+      "answer": "Empire du Mali"
+    },
+    {
+      "id": "CA-0316",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel événement de 1453 marque la prise de Constantinople par les Ottomans ?",
+      "options": [
+        "Chute de Constantinople",
+        "Siège de Vienne",
+        "Bataille de Lépante",
+        "Prise de Grenade"
+      ],
+      "answer": "Chute de Constantinople"
+    },
+    {
+      "id": "CA-0317",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel navigateur portugais atteignit l'Inde en contournant l'Afrique en 1498 ?",
+      "options": [
+        "Vasco de Gama",
+        "Bartolomeu Dias",
+        "Fernand de Magellan",
+        "Pedro Álvares Cabral"
+      ],
+      "answer": "Vasco de Gama"
+    },
+    {
+      "id": "CA-0318",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle civilisation antique avait pour capitale Persépolis ?",
+      "options": [
+        "Empire achéménide",
+        "Empire parthe",
+        "Empire sassanide",
+        "Empire séleucide"
+      ],
+      "answer": "Empire achéménide"
+    },
+    {
+      "id": "CA-0319",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel conflit opposa l'Angleterre et la France de 1337 à 1453 ?",
+      "options": [
+        "Guerre de Cent Ans",
+        "Guerre de Trente Ans",
+        "Guerre des Deux-Roses",
+        "Guerre de Sept Ans"
+      ],
+      "answer": "Guerre de Cent Ans"
+    },
+    {
+      "id": "CA-0320",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel général français devint Premier consul après le coup d'État du 18 Brumaire ?",
+      "options": [
+        "Napoléon Bonaparte",
+        "Jean Moreau",
+        "Lazare Hoche",
+        "Louis-Nicolas Davout"
+      ],
+      "answer": "Napoléon Bonaparte"
+    },
+    {
+      "id": "CA-0321",
+      "theme": "Histoire",
+      "difficulty": "Intermédiaire",
+      "question": "Quel traité de 1494 partagea les zones d'expansion outre-mer entre l'Espagne et le Portugal ?",
+      "options": [
+        "Traité de Tordesillas",
+        "Traité de Saragosse",
+        "Traité de Paris",
+        "Traité d'Alcáçovas"
+      ],
+      "answer": "Traité de Tordesillas"
+    },
+    {
+      "id": "CA-0322",
+      "theme": "Histoire",
+      "difficulty": "Difficile",
+      "question": "Quel peuple de navigateurs fonda Carthage selon la tradition historique ?",
+      "options": [
+        "Phéniciens",
+        "Étrusques",
+        "Hittites",
+        "Mycéniens"
+      ],
+      "answer": "Phéniciens"
+    },
+    {
+      "id": "CA-0323",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel studio est à l'origine de la série The Witcher en jeux vidéo ?",
+      "options": [
+        "CD Projekt Red",
+        "BioWare",
+        "Bethesda Game Studios",
+        "Larian Studios"
+      ],
+      "answer": "CD Projekt Red"
+    },
+    {
+      "id": "CA-0324",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Dans quel jeu apparaît la cité sous-marine de Rapture ?",
+      "options": [
+        "BioShock",
+        "Dishonored",
+        "Prey",
+        "Control"
+      ],
+      "answer": "BioShock"
+    },
+    {
+      "id": "CA-0325",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel jeu de FromSoftware se déroule notamment dans l'Entre-terre ?",
+      "options": [
+        "Elden Ring",
+        "Sekiro",
+        "Bloodborne",
+        "Dark Souls III"
+      ],
+      "answer": "Elden Ring"
+    },
+    {
+      "id": "CA-0326",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Dans quelle série de jeux trouve-t-on le personnage de GLaDOS ?",
+      "options": [
+        "Portal",
+        "Half-Life",
+        "Mass Effect",
+        "Deus Ex"
+      ],
+      "answer": "Portal"
+    },
+    {
+      "id": "CA-0327",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel studio japonais a créé la série Persona ?",
+      "options": [
+        "Atlus",
+        "Capcom",
+        "Konami",
+        "Square Enix"
+      ],
+      "answer": "Atlus"
+    },
+    {
+      "id": "CA-0328",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel jeu de stratégie de 1998 oppose notamment Terrans, Zergs et Protoss ?",
+      "options": [
+        "StarCraft",
+        "Warcraft III",
+        "Age of Empires II",
+        "Command & Conquer"
+      ],
+      "answer": "StarCraft"
+    },
+    {
+      "id": "CA-0329",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Dans quel jeu incarne-t-on Arthur Morgan ?",
+      "options": [
+        "Red Dead Redemption 2",
+        "Red Dead Revolver",
+        "Call of Juarez",
+        "Gun"
+      ],
+      "answer": "Red Dead Redemption 2"
+    },
+    {
+      "id": "CA-0330",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel studio a développé Hollow Knight ?",
+      "options": [
+        "Team Cherry",
+        "Supergiant Games",
+        "Motion Twin",
+        "Moon Studios"
+      ],
+      "answer": "Team Cherry"
+    },
+    {
+      "id": "CA-0331",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Quel jeu de 2005 a introduit le personnage de Kratos ?",
+      "options": [
+        "God of War",
+        "Dante's Inferno",
+        "Devil May Cry 3",
+        "Ryse"
+      ],
+      "answer": "God of War"
+    },
+    {
+      "id": "CA-0332",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel jeu indépendant met en scène le personnage de Madeline gravissant une montagne ?",
+      "options": [
+        "Celeste",
+        "Gris",
+        "Journey",
+        "Limbo"
+      ],
+      "answer": "Celeste"
+    },
+    {
+      "id": "CA-0333",
+      "theme": "Jeux vidéo",
+      "difficulty": "Intermédiaire",
+      "question": "Quel jeu propose d'explorer la planète fictive de Tallon IV avec Samus Aran ?",
+      "options": [
+        "Metroid Prime",
+        "Metroid Dread",
+        "Super Metroid",
+        "Metroid Fusion"
+      ],
+      "answer": "Metroid Prime"
+    },
+    {
+      "id": "CA-0334",
+      "theme": "Jeux vidéo",
+      "difficulty": "Difficile",
+      "question": "Dans quelle franchise se trouve la ville de Night City ?",
+      "options": [
+        "Cyberpunk 2077",
+        "Watch Dogs",
+        "Saints Row",
+        "Sleeping Dogs"
+      ],
+      "answer": "Cyberpunk 2077"
+    },
+    {
+      "id": "CA-0335",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel joueur de tennis a remporté Roland-Garros 14 fois en simple messieurs ?",
+      "options": [
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Roger Federer",
+        "Björn Borg"
+      ],
+      "answer": "Rafael Nadal"
+    },
+    {
+      "id": "CA-0336",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays a remporté la première Coupe du monde de football en 1930 ?",
+      "options": [
+        "Uruguay",
+        "Argentine",
+        "Brésil",
+        "Italie"
+      ],
+      "answer": "Uruguay"
+    },
+    {
+      "id": "CA-0337",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Dans quel sport le trophée appelé Coupe Stanley est-il décerné ?",
+      "options": [
+        "Hockey sur glace",
+        "Basket-ball",
+        "Baseball",
+        "Rugby"
+      ],
+      "answer": "Hockey sur glace"
+    },
+    {
+      "id": "CA-0338",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pilote automobile a remporté sept titres mondiaux de Formule 1 entre 1994 et 2004 ?",
+      "options": [
+        "Michael Schumacher",
+        "Ayrton Senna",
+        "Alain Prost",
+        "Sebastian Vettel"
+      ],
+      "answer": "Michael Schumacher"
+    },
+    {
+      "id": "CA-0339",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quelle ville a accueilli les Jeux olympiques d'été de 1992 ?",
+      "options": [
+        "Barcelone",
+        "Séoul",
+        "Atlanta",
+        "Athènes"
+      ],
+      "answer": "Barcelone"
+    },
+    {
+      "id": "CA-0340",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quel pays a popularisé le haka avant les rencontres internationales de rugby ?",
+      "options": [
+        "Nouvelle-Zélande",
+        "Australie",
+        "Afrique du Sud",
+        "Fidji"
+      ],
+      "answer": "Nouvelle-Zélande"
+    },
+    {
+      "id": "CA-0341",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel coureur cycliste surnommé « le Cannibale » a remporté cinq Tours de France ?",
+      "options": [
+        "Eddy Merckx",
+        "Bernard Hinault",
+        "Miguel Indurain",
+        "Jacques Anquetil"
+      ],
+      "answer": "Eddy Merckx"
+    },
+    {
+      "id": "CA-0342",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Dans quelle discipline sportive utilise-t-on une épée, un fleuret ou un sabre ?",
+      "options": [
+        "Escrime",
+        "Pentathlon moderne uniquement",
+        "Kendo",
+        "Savate"
+      ],
+      "answer": "Escrime"
+    },
+    {
+      "id": "CA-0343",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Quel nageur américain a remporté 23 médailles d'or olympiques ?",
+      "options": [
+        "Michael Phelps",
+        "Mark Spitz",
+        "Ryan Lochte",
+        "Caeleb Dressel"
+      ],
+      "answer": "Michael Phelps"
+    },
+    {
+      "id": "CA-0344",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel pays a remporté la Coupe du monde de rugby à XV masculine en 2023 ?",
+      "options": [
+        "Afrique du Sud",
+        "Nouvelle-Zélande",
+        "Angleterre",
+        "France"
+      ],
+      "answer": "Afrique du Sud"
+    },
+    {
+      "id": "CA-0345",
+      "theme": "Sport",
+      "difficulty": "Intermédiaire",
+      "question": "Quel basketteur était surnommé « His Airness » ?",
+      "options": [
+        "Michael Jordan",
+        "Magic Johnson",
+        "Kobe Bryant",
+        "LeBron James"
+      ],
+      "answer": "Michael Jordan"
+    },
+    {
+      "id": "CA-0346",
+      "theme": "Sport",
+      "difficulty": "Difficile",
+      "question": "Dans quel sport s'illustra l'athlète jamaïcain Usain Bolt ?",
+      "options": [
+        "Sprint",
+        "Saut en longueur",
+        "Décathlon",
+        "110 m haies"
+      ],
+      "answer": "Sprint"
+    },
+    {
+      "id": "CA-0347",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel dieu égyptien est représenté avec une tête d'ibis ?",
+      "options": [
+        "Thot",
+        "Anubis",
+        "Horus",
+        "Sobek"
+      ],
+      "answer": "Thot"
+    },
+    {
+      "id": "CA-0348",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Dans la mythologie grecque, qui est la déesse de la chasse ?",
+      "options": [
+        "Artémis",
+        "Héra",
+        "Déméter",
+        "Hestia"
+      ],
+      "answer": "Artémis"
+    },
+    {
+      "id": "CA-0349",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quel dieu nordique perd une main en enchaînant le loup Fenrir ?",
+      "options": [
+        "Týr",
+        "Thor",
+        "Baldr",
+        "Heimdall"
+      ],
+      "answer": "Týr"
+    },
+    {
+      "id": "CA-0350",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Dans la mythologie grecque, qui est condamné à pousser éternellement un rocher ?",
+      "options": [
+        "Sisyphe",
+        "Tantale",
+        "Ixion",
+        "Prométhée"
+      ],
+      "answer": "Sisyphe"
+    },
+    {
+      "id": "CA-0351",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel héros grec tua le Minotaure ?",
+      "options": [
+        "Thésée",
+        "Persée",
+        "Jason",
+        "Achille"
+      ],
+      "answer": "Thésée"
+    },
+    {
+      "id": "CA-0352",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Dans la mythologie égyptienne, qui est l'épouse d'Osiris ?",
+      "options": [
+        "Isis",
+        "Bastet",
+        "Sekhmet",
+        "Maât"
+      ],
+      "answer": "Isis"
+    },
+    {
+      "id": "CA-0353",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel dieu japonais du soleil est une déesse dans le shintoïsme ?",
+      "options": [
+        "Amaterasu",
+        "Susanoo",
+        "Tsukuyomi",
+        "Inari"
+      ],
+      "answer": "Amaterasu"
+    },
+    {
+      "id": "CA-0354",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel être de la mythologie grecque transforme en pierre ceux qui croisent son regard ?",
+      "options": [
+        "Méduse",
+        "Échidna",
+        "Charybde",
+        "Scylla"
+      ],
+      "answer": "Méduse"
+    },
+    {
+      "id": "CA-0355",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Dans la mythologie nordique, comment s'appelle le pont arc-en-ciel reliant les mondes ?",
+      "options": [
+        "Bifröst",
+        "Yggdrasil",
+        "Ginnungagap",
+        "Niflheim"
+      ],
+      "answer": "Bifröst"
+    },
+    {
+      "id": "CA-0356",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Quel dieu romain correspond à l'Arès grec ?",
+      "options": [
+        "Mars",
+        "Mercure",
+        "Vulcain",
+        "Janus"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": "CA-0357",
+      "theme": "Mythologie",
+      "difficulty": "Intermédiaire",
+      "question": "Qui est la mère d'Achille dans la mythologie grecque ?",
+      "options": [
+        "Thétis",
+        "Léto",
+        "Gaïa",
+        "Rhéa"
+      ],
+      "answer": "Thétis"
+    },
+    {
+      "id": "CA-0358",
+      "theme": "Mythologie",
+      "difficulty": "Difficile",
+      "question": "Quel serpent géant de la mythologie nordique entoure le monde ?",
+      "options": [
+        "Jörmungandr",
+        "Níðhöggr",
+        "Fenrir",
+        "Fáfnir"
+      ],
+      "answer": "Jörmungandr"
+    }
+  ]
+}
